@@ -1,0 +1,496 @@
+Twitter: @GTA_Sheet,,,,,,,,,,,,,,,,
+Vehicle_Class,Vehicle_Name,Buy_Price,Sell_Price,Stealable,Capacity,Speed,Accel,Brake,Handl,Avg w/o Brake,Avg w/o Accel,Avg w/o Speed,Overall,Picture,Notes,Based on
+SUPER,,,,,,,,,,,,,,,,
+SUPER,Coil Rocket Voltic,"$2,880,000",-,No,2,7.8,4.5,3.3,7.7,6.65,6.26,5.17,5.82,http://i.imgur.com/nfOGkZI.jpg,Import/Export update,"Tesla Roadster, Lotus Elise, Coil Voltic, Falcon 9 (lol)"
+SUPER,Grotti Vigilante,"$3,750,000",-,No,2,7.2,6.5,2,6.4,6.7,5.2,4.95,5.527,Coming eventually...,Rocket boost as standard,"Batmobile, obviously."
+SUPER,Grotti X80 Proto,"$2,700,000",-,No,2,8.5,9.4,3.7,8.2,8.7,6.79,7.07,7.438,http://i.imgur.com/4TM8YKq.jpg,"AWD, FAFF update","Ferrari F80 concept, GreenGT LeMans"
+SUPER,Progen Tyrus,"$2,550,000",-,No,2,8.64,9.3,4,9.09,9,7.24,7.46,7.751,http://i.imgur.com/nCo3178.jpg,Cunning Stunts update,"McLaren F1 GTR Longtail, Saleen S7, Mosler MT900R"
+SUPER,Annis RE-7B,"$2,475,000",-,No,2,8.64,9.3,3.7,9.12,9.01,7.14,7.35,7.674,http://i.imgur.com/bHQw3Zc.jpg,Cunning Stunts update,"Nissan R390 GT1, Mazda 787B, Aquila CR-1, Memo Rojas BMW, 2014 Audi R18 e-tron Quattro"
+SUPER,Ocelot XA-21,"$2,375,000",-,No,2,8.54,9.1,3.7,8.12,8.59,6.78,6.96,7.357,Coming eventually...,Gunrunning update,"Jaguar C-X75, McLaren P1, Maserati GranTurismo, Koenigsegg Regera"
+SUPER,Grotti Visione,"$2,250,000",-,No,2,8.63,9.3,3.7,9.2,9.02,7.18,7.38,7.696,Coming eventually...,Smuggler's Run update,"Ferrari Xezri Conept, McLaren P1, Ferrari 458, LaFerrari"
+SUPER,Progen T20*,"$2,200,000",-,No,2,8.5,9.2,3.8,8.2,8.63,6.84,7.05,7.42,http://i.imgur.com/MGLI03M.jpg,"AWD, Ill-Gotten Gains Pt2 update","McLaren P1, Tushek T600, Falcon F7"
+SUPER,Emperor ETR1,"$1,995,000",-,No,2,8.5,8.3,3.3,8.9,8.54,6.9,6.82,7.24,http://i.imgur.com/IoHve6N.jpg,Cunning Stunts update,"Toyota 86/R&D Sport Subaru BRZ GT300, Toyota FT-1 Concept, Gazoo Racing Lexus LFA, Nissan GT-R Nismo GT3"
+SUPER,Överflöd Autarch,"$1,955,000",-,No,2,8.64,9.4,4,10,9.35,7.55,7.81,8.016,Coming eventually...,Doomsday Heist update,Scuderia Cameron Glickenhaus SCG 003
+SUPER,Pegassi Osiris*,"$1,950,000",-,No,2,8.5,9,3.7,8.1,8.54,6.78,6.93,7.333,http://i.imgur.com/03vwp8G.jpg,"AWD, Ill-Gotten Gains Pt1 update","Pagani Zonda & Hyurarauruaya, LaFerrari"
+SUPER,Coil Cyclone,"$1,890,000",-,No,2,8.3,8,3.3,7.9,8.08,6.53,6.42,6.897,Coming eventually...,17-Nov,"Koenigsegg Agera, Noble M600, Rimac Concept S"
+SUPER,Ubermacht SC1,"$1,603,000",-,No,2,8.53,7.8,3.7,8,8.1,6.76,6.5,7.011,Coming eventually...,Doomsday Heist update,BMW i8/M1 Homage Concept
+SUPER,Progen GP1,"$1,260,000",-,No,2,8.61,9.3,4,8.5,8.78,7.03,7.24,7.584,Coming soon...,Special Vehicle Circuit update,McLaren F1
+SUPER,Progen Itali GTB,"$1,189,000",-,No,2,8.5,8.4,3.7,7.6,8.17,6.59,6.55,7.046,http://i.imgur.com/EaAfTSs.jpg,"AWD, Import/Export update","McLaren 570S/650S/P14, Trion Nemesis"
+SUPER,Progen Itali GTB Custom,"$495,000",-,No,2,8.5,8.5,4,8.1,8.39,6.89,6.88,7.293,http://i.imgur.com/RIyqKx7.jpg,"AWD, Import/Export update","McLaren 570S/650S/P14, Trion Nemesis"
+SUPER,Vapid FMJ,"$1,750,000",-,No,2,8.5,9.1,3.7,8.2,8.61,6.78,6.99,7.371,http://i.imgur.com/Ivj6loe.jpg,FAFF update,2017 Ford GT; Aston Martin Vulcan
+SUPER,Pegassi Reaper,"$1,595,000",-,No,2,8.5,9.1,3.7,8.1,8.58,6.76,6.96,7.353,http://i.imgur.com/LhMdZze.jpg,FAFF update,"Lamborghini Huracan, Centenario, Sesto Elemento, Lykan Hypersport"
+SUPER,Dewbauchee Vagner,"$1,535,000",-,No,2,8.6,9.3,3.7,9.2,9.02,7.18,7.38,7.696,Coming eventually...,Gunrunning update,"Aston Martin Valkyrie, Jaguar C-X75, Nio EP9"
+SUPER,Truffade Nero,"$1,440,000",-,No,2,8.58,8.4,3.3,8,8.35,6.65,6.6,7.096,http://i.imgur.com/F4KMQIX.jpg,"AWD, Import/Export update",Bugatti Chiron
+SUPER,Truffade Nero Custom,"$605,000",-,No,2,8.6,8.5,3.7,8.1,8.4,6.79,6.76,7.217,http://i.imgur.com/YFCZDHu.jpg,"AWD, Import/Export update",Bugatti Chiron
+SUPER,Pegassi Tempesta,"$1,329,000",-,No,2,8.4,9,3.3,8,8.48,6.6,6.79,7.197,http://i.imgur.com/fX2B4dn.jpg,Import/Export update,"Lamborghini Huracán/Centenario, propsed 2015 Lotus Esprit"
+SUPER,Pfister 811,"$1,135,000",-,No,2,8.5,8.9,3.7,8.1,8.53,6.81,6.93,7.331,http://i.imgur.com/m4p8AhD.jpg,FAFF update,"Porsche 918 Hypercar, Koenigsegg Regera"
+SUPER,Truffade Adder,"$1,000,000",-,No,2,8.58,8,3.3,7.6,8.06,6.49,6.3,6.871,http://i.imgur.com/GypxaY5.jpg ,AWD,"Bugatti SuperVeyron, Saab Aero-X"
+SUPER,Ocelot Penetrator,"$880,000",-,No,2,8.58,7.5,2.7,7.8,7.97,6.35,5.99,6.641,http://i.imgur.com/kON7opZ.jpg,Import/Export update,"Jaguar XJ220, Saleen S7"
+SUPER,Overflod Entity XF,"$795,000",-,No,2,8.3,8.3,3,8.3,8.31,6.54,6.53,6.979,http://i.imgur.com/E9nyZjP.jpg ,AWD,"Koenigsegg CC8S, Agera & Lamborghini Aventador (rear lights)"
+,,,,,,,,,,,,,,,,
+SUPER,Pegassi Zentorno,"$725,000",-,No,2,8.5,8.9,3.3,8,8.48,6.61,6.73,7.183,http://i.imgur.com/yeYh76q.jpg ,"AWD, High Life update",Lamborghini Sesto Elemento/Aventador/Veneno
+SUPER,Grotti Cheetah,"$650,000",-,No,2,8.2,8,2.7,8,8.07,6.3,6.23,6.727,http://i.imgur.com/zkYzOJO.jpg ,,"Ferrari Enzo, Koenigsegg Agera, Spania GTA Spano"
+,,,,,,,,,,,,,,,,
+SUPER,Grotti Turismo R,"$500,000",-,No,2,8.3,8.8,4,8,8.37,6.77,6.93,7.279,http://i.imgur.com/Q5GnjiH.jpg ,Business Update,"LaFerrari, McLaren P1, GTA Spano"
+SUPER,Pegassi Infernus,"$440,000",-,No,2,8,8.5,1.7,8,8.18,5.92,6.07,6.562,http://i.imgur.com/9oMyutK.jpg ,AWD,"Lamborghini Murcielago, Lamborghini Diablo, Pagani Zonda"
+SUPER,Pegassi Vacca,"$240,000",-,No,2,8.2,7.5,3.3,7.9,7.85,6.45,6.23,6.714,http://i.imgur.com/DCCqD0A.jpg ,,"Lamborghini Gallardo, McLaren MP4-12C"
+SUPER,Vapid Bullet,"$155,000",-,No,2,8.2,8.3,2.7,7.7,8.05,6.19,6.23,6.714,http://i.imgur.com/hroOuoQ.jpg ,,Ford GT
+SUPER,Coil Voltic Topless,"$150,000",-,No,2,7.8,9,3.3,7.7,8.16,6.26,6.67,6.945,http://i.imgur.com/ExFtION.jpg ,,"Tesla Roadster, Lotus Elise"
+SUPER,Coil Voltic Hardtop,"$150,000",-,No,2,7.8,9,3.3,7.7,8.16,6.26,6.67,6.945,http://i.imgur.com/KZJHjLg.jpg ,,"Tesla Roadster, Lotus Elise"
+,,,,,,,,,,,,,,,,
+SPORTS,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+SPORTS,Ocelot Lynx,"$1,735,000",-,No,2,8.4,7.9,3.33,7.8,8.02,6.51,6.32,6.848,http://i.imgur.com/pBuGVZH.jpg,Cunning Stunts update,Jaguar F-Type
+SPORTS,Ocelot Pariah,"$1,420,000",-,No,2,8.3,8,3.3,8,8.1,6.54,6.44,6.908,Coming eventually...,Doomsday Heist update,"Ferrari 812 Superfast, Ferrari Portofino, Aston Martin V12 Zagato"
+SPORTS,Coil Raiden,"$1,375,000",-,No,4,8.4,6.1,4.3,6.5,7.01,6.41,5.66,6.339,Coming eventually...,Doomsday Heist update,"Tesla Model S (design)/Model 3 (size), Aston Martin Vanquish (rear lights)"
+SPORTS,Declasse Drift Tampa,"$995,000",-,No,2,8,8.3,1.7,6.8,7.71,5.51,5.58,6.196,http://i.imgur.com/1IXWksI.jpg,Cunning Stunts update,"64 - '73 Ford Mustang, '70/'71 Dodge Dart, '68-'72 Chevrolet Nova, '68 Dodge Charger"
+SPORTS,Lampadati Tropos Rallye,"$816,000",-,No,2,8.2,5.6,2.3,6.2,6.66,5.57,4.72,5.582,http://i.imgur.com/JPO9PKo.jpg,Cunning Stunts update,"Lancia Stratos, Chevrolet Corvette C3, "
+SPORTS,Pfister Comet Safari,"$710,000",-,No,2,8.2,7.3,2.67,6.4,7.28,5.73,5.45,6.124,Coming eventually...,Doomsday Heist update,Porsche 911 Safari
+SPORTS,Obey Omnis,"$701,000",-,No,2,8.2,7.6,3.33,6.5,7.42,5.99,5.81,6.4,http://imgur.com/S01kCwi,"AWD, Cunning Stunts update","Audi Quattro, Alfa Romeo Alfetta GT Coupe, Fiat 131 Rally, Toyota MR2"
+SPORTS,Dewbauchee Seven-70,"$695,000",-,No,2,8.53,8.4,3.33,7.8,8.22,6.54,6.49,6.999,http://i.imgur.com/xeC0UcVs.jpg,FAFF update,"Aston Martin One-77, Ferrari F12berlinetta"
+SPORTS,Bravado Verlierer,"$695,000",-,No,2,8,8.4,3.33,7.4,7.92,6.24,6.35,6.776,http://i.imgur.com/Srpa8Ou.jpg,Executives update,"TVR Sagaris, Wiesmann GT MF5"
+SPORTS,Ubermacht Sentinel Classic,"$650,000",-,No,2,7.5,6.6,2.67,6.8,6.98,5.67,5.37,5.905,Coming eventually...,Doomsday Heist update,"BMW E30 M3, Volkswagen Jetta Mk1"
+SPORTS,BF Raptor,"$648,000",-,No,2,7.5,7.4,4,7.9,7.59,6.46,6.42,6.691,http://i.imgur.com/2FjaVR8.jpg,Bikers update,T-Rex trike
+SPORTS,Grotti Bestia GTS,"$610,000",-,No,2,8.3,8,3.33,7.3,7.88,6.33,6.22,6.745,http://i.imgur.com/lDhkNMqs.jpg,"AWD, FAFF update","Ferrari FF, GTC4Lusso"
+SPORTS,Dewbauchee Specter,"$599,000",-,No,2,8.3,8,3.33,7.9,8.08,6.53,6.42,6.897,http://i.imgur.com/ZiwG4LH.jpg,Import/Export update,"Aston Martin DB10/One-77, Porsche 918, Mercedes-McLaren SLR"
+,,,,,,,,,,,,,,,,
+SPORTS,Bravado Buffalo Sprunk,"$535,000",-,No,4,7.9,7.8,3.33,7.4,7.69,6.21,6.17,6.599,http://i.imgur.com/F8MQhS1.jpg,Cunning Stunts update,Dodge Charger
+SPORTS,Karin Kuruma (Armored),"$525,000",-,No,4,7.9,7.8,1.7,7.4,7.7,5.67,5.63,6.2,http://i.imgur.com/xsyTfQT.jpg,"AWD, Heists update","Mitsubishi Lancer Evo X, 2015 Subaru WRX STi"
+SPORTS,Benefactor Streiter,"$500,000",-,No,4,7.5,5.3,2.7,6.8,6.55,5.67,4.93,5.577,Coming eventually...,Doomsday Heist update,Mercedes-Benz E-Class All Terrain 4x4/CL-Class C216
+SPORTS,Lampadati Furore GT,"$448,000",-,No,2,8.2,8.4,2.7,7.8,8.13,6.23,6.3,6.775,http://i.imgur.com/LfkSZ1B.jpg  ,LTS Update,"Maserati Alfieri concept/GranTurismo MC Corse, Jaguar F-Type, Lexus LFA, Toyota 86, Ferrari F12berlinetta"
+SPORTS,Hijack Ruston,"$430,000",-,No,2,7.9,8.1,4,8.2,8.09,6.71,6.77,7.065,Coming soon...,Special Vehicle Circuit update,"VUHL 05, KTM X-Bow"
+SPORTS,Dewbauch. Mass. (Racecar),"$385,000",-,No,2,8.4,9.1,3,7.4,8.3,6.27,6.5,6.975,http://i.imgur.com/TaPKAo7.jpg ,Festive Surprise update,"Corvette C7, Ferrari F12 Berlinetta/360/F430, 2nd gen Aston Martin Vanquish"
+SPORTS,Dinka Jester (Racecar),"$350,000",-,No,2,8.48,7.8,3.2,7.8,8.03,6.49,6.27,6.819,http://i.imgur.com/O7DHKBS.jpg ,"AWD, Festive Surprise","Acura NSX Concept, McLaren MP4-12C"
+SPORTS,Dewbauchee Massacro,"$275,000",-,No,2,8.2,9,3,7.4,8.2,6.2,6.47,6.9,http://i.imgur.com/kq1pDPy.jpg,High Life update,"Corvette C7, Ferrari F12 Berlinetta/360/F430, 2nd gen Aston Martin Vanquish"
+SPORTS,Dinka Jester,"$240,000",-,No,2,8.48,7.5,3.2,7.7,7.89,6.46,6.13,6.719,http://i.imgur.com/PJEGRPW.jpg,"AWD, Business update","Acura NSX Concept, McLaren MP4-12C"
+SPORTS,Grotti Carbonizzare,"$195,000",-,No,2,8.48,8.8,2.7,7.2,8.16,6.13,6.23,6.794,http://i.imgur.com/VGx2e05.jpg,Hard top convertible,"V12 Zagato rear, Nissan GT-R, Ferrari 458 Italia, Ferrari 612 Scagliëtti"
+SPORTS,Albany Alpha,"$150,000",-,No,2,8.3,8.5,3.3,7.7,8.17,6.43,6.5,6.95,http://i.imgur.com/FZR99VW.jpg,Business update,"Cadillac Sixteen, 2013 Cadillac ATS"
+SPORTS,Benefactor Feltzer,"$145,000",-,No,2,8.2,8.5,2.7,8,8.23,6.3,6.4,6.85,http://i.imgur.com/VWZO0zc.jpg,,Mercedes-Benz SL
+SPORTS,Dewbauchee Rapid GT (Topless),"$140,000",-,No,2,8.2,9,3.3,7.4,8.2,6.3,6.57,6.975,http://i.imgur.com/G50RhCG.jpg,Soft top convertible,Aston Martin Vantage
+SPORTS,Inverto Coquette (Topless),"$138,000",-,No,2,8.2,8.3,2.7,7.7,8.07,6.2,6.23,6.725,http://i.imgur.com/QwyWDsKs.jpg,,"Corvette C7, 2014 Corvette Stingray"
+SPORTS,Inverto Coquette (Hardtop),"$138,000",-,No,2,8.1,8.3,2.7,7.7,8.03,6.17,6.23,6.7,http://i.imgur.com/Ye1NkdE.jpg,,"Corvette C7, 2014 Corvette Stingray"
+SPORTS,Dewbauchee Rapid GT,"$132,000",-,No,2,8.2,9,3.3,7.4,8.2,6.3,6.57,6.975,http://i.imgur.com/G50RhCG.jpg,,Aston Martin Vantage
+SPORTS,Obey 9F Cabrio,"$130,000",-,No,2,8.3,8.3,3.3,7.7,8.1,6.43,6.43,6.9,http://i.imgur.com/UvM645u.jpg,Soft top convertible,Audi R8
+SPORTS,Bravado Banshee (Topless),"$105,000",-,No,2,7.9,8.5,3.3,7.3,7.9,6.17,6.37,6.75,http://i.imgur.com/9VuoplK.jpg,,"Dodge Viper, Mazda RX-7, Aston Martin DB9"
+SPORTS,Obey 9F,"$120,000",-,No,2,8.3,8.3,3.3,7.7,8.1,6.43,6.43,6.9,http://i.imgur.com/7twgXKj.jpg ,,Audi R8
+SPORTS,Benefactor Schafter V12,"$116,000",-,No,4,8,7.5,3.2,7.7,7.76,6.31,6.13,6.609,http://i.imgur.com/3anwE8C.jpg,Executives update,"Mercedes-Benz E-Class W123, W114, S-Class W109, BMW E3 3.0Si"
+SPORTS,Bravado Banshee,"$105,000",-,No,2,7.9,8.5,3.3,7.3,7.9,6.17,6.37,6.75,http://i.imgur.com/vAZXc49.jpg ,,Dodge Viper
+SPORTS,Hijak Khamelion,"$100,000",-,No,2,7.5,3.8,3,7.9,6.4,6.13,4.9,5.55,http://i.imgur.com/NHiC7a5.jpg ,,"Fisker Karma Sunset, Aston Martin Vanquish, Maserati Granturismo"
+SPORTS,Benefactor Surano,"$100,000",-,No,2,8.3,8.5,3.3,7.7,8.17,6.43,6.5,6.95,http://i.imgur.com/mtHokrW.jpg ,Soft top convertible,"Mercedes-Benz SLS AMG roadster, Jaguar F-type"
+SPORTS,Pfister Comet,"$100,000",-,No,2,8.2,8.5,2.7,7.9,8.2,6.27,6.37,6.825,http://i.imgur.com/I2pExfN.jpg ,,Porsche 911
+,,,,,,,,,,,,,,,,
+SPORTS,Bravado Buffalo S,"$96,000",-,No,4,7.8,7.3,3,7.4,7.5,6.07,5.9,6.375,http://i.imgur.com/zlHZJMAs.jpg ,Franklin's car,Dodge Charger
+SPORTS,Karin Kuruma,"$95,000",-,No,4,7.9,7.8,1.7,7.4,7.7,5.67,5.63,6.2,http://i.imgur.com/q4LtlSf.jpg ,"AWD, Heists update","Mitsubishi Lancer Evo X, 2015 Subaru WRX STi"
+SPORTS,Benefactor Schwartzer,"$80,000","$8,000",Yes,2,7.9,7.3,3,7,7.4,5.97,5.77,6.3,http://i.imgur.com/okZPe8B.jpg,,Mercedes-Benz CL Series
+SPORTS,Dinka Blista Compact [RP],"$42,000",-,No,2,7.1,5.8,1.8,6.4,6.43,5.1,4.67,5.275,http://i.imgur.com/dfTnh7j.jpg ,"FWD, Heists update",Honda CR-X/CR-X SiR
+SPORTS,Schyster Fusilade,"$36,000","$3,600",Yes,2,8,8,3,7.4,7.8,6.13,6.13,6.6,http://i.imgur.com/atgGb6E.jpg,,Chrysler Crossfire
+SPORTS,Bravado Buffalo,"$35,000","$3,500",Yes,4,7.8,6.8,3,7.4,7.33,6.07,5.73,6.25,http://i.imgur.com/o6TRnLM.jpg,,Dodge Charger
+SPORTS,Maibatsu Penumbra,"$24,000","$2,400",Yes,2,7.5,5.5,2.7,6.8,6.6,5.67,5,5.625,http://i.imgur.com/TqdcVw7.jpg,,"Mitsubishi Eclipse, Audi TT"
+SPORTS,Karin Sultan,"$12,000","$1,200",Yes,4,7.8,6.5,1.3,7.1,7.13,5.4,4.97,5.675,http://i.imgur.com/90Q5NRm.jpg ,AWD,"Lexus IS, Mitsubishi Lancer Evo VI, Subaru Imprezza"
+SPORTS,Karin Futo,,"$1,000",Yes,2,7.2,7.3,1.7,6.2,6.9,5.03,5.07,5.6,http://i.imgur.com/Mv7EZC3.jpg ,,Toyota AE86
+,,,,,,,,,,,,,,,,
+SPORTS CLASSIC,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+SPORTS CLASSIC,Ocelot Ardent,"$1,150,000",-,No,2,7.9,7.1,3,8,7.7,6.32,6.05,6.524,Coming eventually...,Gunrunning update,Lotus Esprit (5th gen)
+SPORTS CLASSIC,Albany Roosevelt Valor,"$982,000",-,No,6,6.7,6.8,1.8,6.4,6.61,4.97,4.98,5.413,http://i.imgur.com/CtqguhV.jpg ,Be My Valentine update,1928 Cadillac 341A Town Sedan
+SPORTS CLASSIC,Pegassi Torero,"$998,000",-,No,2,8,7.5,1.7,7.9,7.8,5.86,5.68,6.266,Coming eventually...,Gunrunning update,"Lamborghini Countach, Ferrari F40, Koenig Coutach, Ferrari 328"
+SPORTS CLASSIC,Declasse Mamba,"$995,000",-,No,2,7.9,8.5,1.7,7.6,8,5.72,5.91,6.418,http://i.imgur.com/wLmJ5kg.jpg,Executives update,AC Cobra (Mk III)
+SPORTS CLASSIC,Annis Savestra,"$990,000",-,No,2,7.5,5.9,2.3,6.2,6.55,5.35,4.83,5.498,Coming eventually...,Doomsday Heist update,"Series II-III Mazda Savanna/RX3, '72-'74 Mitsubishi Galant GTO, '70-'74 Toyota Corolla Coupe"
+SPORTS CLASSIC,Benefactor Stirling GT,"$975,000",-,No,2,7.4,7.5,2.7,7.1,7.34,5.73,5.76,6.173,http://i.imgur.com/rts5mpc.jpg,Ill-Gotten Gains Pt1 update,"Mercedes-Benz 300SL, 300 SLR, Alfa Romeo Disco Volatne, 8C Competizione"
+SPORTS CLASSIC,Truffade Z-Type,"$950,000",-,No,2,7.5,5.5,1.3,5,6,4.6,3.93,4.825,http://i.imgur.com/OPrVV24.jpg ,,Bugatti Type 57
+SPORTS CLASSIC,Pegassi Infernus Classic,"$915,000",-,No,2,8,8.3,1.7,8,8.09,5.89,5.97,6.48,Coming soon...,Special Vehicle Circuit update,"Lamborghini Diablo, Cizeta V16T, Ferrari Testarossa"
+SPORTS CLASSIC,Dewbauchee Rapid GT Classic,"$885,000",-,No,2,8,7.5,1.7,7.9,7.8,5.86,5.68,6.266,Coming eventually...,,"Jensen Interceptor III, Aston Martin V8 Vantage"
+SPORTS CLASSIC,Grotti Stinger GT,"$875,000",-,No,2,7.8,6.5,2,6.5,6.93,5.43,5,5.7,http://i.imgur.com/RjFxQTc.jpg,,"Alfa Romeo 33 Stradale, Daytona Le Mans Edition, Ferrari 250 GTO"
+SPORTS CLASSIC,Grotti Cheetah Classic,"$865,000",-,No,2,8.2,7.5,2.7,8,7.9,6.28,6.07,6.588,Coming eventually...,Gunrunning update,"Ferrari Testarossa, 512 BB"
+SPORTS CLASSIC,Grotti Stinger (Topless),"$850,000",-,No,2,7.8,6.5,2,6.5,6.93,5.43,5,5.7,http://i.imgur.com/vC8vr0q.jpg,,"Alfa Romeo 33 Stradale, Daytona Le Mans Edition, Ferrari 250 GTO"
+SPORTS CLASSIC,Grotti Stinger (Softtop),"$850,000",-,No,2,7.8,6.5,2,6.5,6.93,5.43,5,5.7,http://i.imgur.com/BLGyT3X.jpg ,"Soft top, High Life update","Alfa Romeo 33 Stradale, Daytona Le Mans Edition, Ferrari 250 GTO"
+SPORTS CLASSIC,Grotti Turismo Classic,"$705,000",-,No,2,8.2,8.5,1.7,8,8.24,5.96,6.07,6.595,Coming soon...,Special Vehicle Circuit update,"Ferrari F40, Testarossa, 348"
+SPORTS CLASSIC,Albany Roosevelt,"$750,000",-,No,6,6.7,6.8,1.8,6.4,6.61,4.97,4.98,5.413,http://i.imgur.com/CtqguhV.jpg ,Valentine's update,1928 Cadillac 341A Town Sedan
+SPORTS CLASSIC,Lampadati Casco,"$680,000",-,No,2,8.1,8,2,7,7.7,5.7,5.67,6.275,http://i.imgur.com/5C9vhX6.jpg ,Heists update,"Maserati 3500 GT, Ferrari 250 GT SWB, Volvo P1800"
+SPORTS CLASSIC,Inverto Coq. Classic (Hardtop),"$665,000",-,No,2,8.1,8.5,1.7,7,7.87,5.6,5.73,6.325,http://i.imgur.com/l4yyBe0s.jpg ,"Hard top, Flight School updt.",Corvette Stingray 1965
+SPORTS CLASSIC,Inverto Coq. Classic (Topless),"$665,000",-,No,2,8.1,8.5,1.7,7,7.87,5.6,5.73,6.325,http://i.imgur.com/kpmP0OJs.jpg ,"Topless, Flight School updt.",Corvette Stingray 1965 Convertible
+SPORTS CLASSIC,Vapid Retinue,"$615,000",-,No,2,7.2,7.3,1.7,6.2,6.92,5.05,5.07,5.614,Coming eventually...,Smuggler's Run update,Ford Escort mk1
+SPORTS CLASSIC,Albany Fränken Stange,"$550,000",-,No,4,7.2,8.8,1.8,5.9,7.3,4.98,5.5,5.935,http://i.imgur.com/Qn6iAVJ.jpg,Halloween Surprise update,"Roosevelt, 1928 Cadillac 341A Town Sedan"
+SPORTS CLASSIC,Pegassi Monroe,"$490,000",-,No,2,8,7,2.2,6.7,7.23,5.63,5.3,5.975,http://i.imgur.com/2GlE51y.jpg ,,"Lamborghini Miura, aspects of Ferarri 250 GTO"
+SPORTS CLASSIC,Lampadati Pigalle,"$400,000",-,No,2,8,6.6,2.8,7.2,7.27,6,5.53,6.15,http://i.imgur.com/OvDKAyD.jpg ,,"Maserati Merak, Ghibli I, Citroen SM, Alpine A310"
+SPORTS CLASSIC,Declasse Tornado Rat Rod,"$378,000",-,No,2,7,7,0.8,6.1,6.68,4.62,4.63,5.217,http://i.imgur.com/xsynfaP.jpg,Bikers update,Rat Rod Tornado (duh)
+SPORTS CLASSIC,Dewbauchee JB 700,"$350,000",-,No,2,8,6.5,2,6.5,7,5.5,5,5.75,http://i.imgur.com/62wyjsi.jpg ,,Aston Martin DB5/6
+SPORTS CLASSIC,Declasse Tornado,"$30,000","$3,000",Yes,2,7,4,0.8,5.5,5.5,4.43,3.43,4.325,http://i.imgur.com/1RRGPxB.jpg ,,Chevy Bel Air
+,,,,,,,,,,,,,,,,
+SPORTS CLASSIC,Vapid Peyote,-,"$1,200",Yes,2,7,4,0.8,5.6,5.53,4.47,3.47,4.35,http://i.imgur.com/izG9XHP.jpg ,,Ford Thunderbird
+SPORTS CLASSIC,Albany Manana,-,$800,Yes,2,7,4,0.8,5.9,5.63,4.57,3.57,4.425,http://i.imgur.com/X8HoCiH.jpg ,,"Buick LeSabre, Cadillac Eldorado"
+,,,,,,,,,,,,,,,,
+MUSCLE,,,,,,,,,,,,,,,,
+MUSCLE,Imponte Ruiner 2000,"$5,745,600",-,No,2,8.2,8.3,3.3,6.4,7.59,5.95,5.98,6.525,http://i.imgur.com/UZnriD7.jpg,Import/Export update,"Pontiac Trans Am, KITT from Knight Rider, Imponte Ruiner"
+MUSCLE,Declasse Weaponized Tampa,"$2,108,050",-,No,2,7.8,8.3,1.7,6.8,7.62,5.42,5.58,6.128,Coming eventually...,Gunrunning update,Modified Tampa
+MUSCLE,Inverto Coquette BlackFin,"$695,000",-,No,2,8.1,8.5,1.7,7,7.86,5.58,5.71,6.309,http://i.imgur.com/8JpQxUe.jpg,Ill-Gotten Gains Pt2 update,"1957 Corvette Hardtop, Roadster Shop Corvette, Austin-Healey"
+MUSCLE,Duke O'Death,"$665,000",-,No,2,8.2,8.8,3,6.8,7.92,6,6.2,6.688,Coming eventually...,Special Vehicle Circuit updt.,Armoured Imponte Dukes
+MUSCLE,Albany Lurcher,"$650,000",-,No,2,7.8,7.3,2.7,6.5,7.2,5.67,5.47,6.063,http://i.imgur.com/At1QeFu.jpg,Halloween Surprise update,"Buccaneer, 1967 Cadillac Funeral Coach"
+MUSCLE,Imponte Nightshade,"$585,000",-,No,2,7.8,6.3,2,6.8,6.95,5.53,5.02,5.71,http://i.imgur.com/KIk1inA.jpg,Executives update,"Chevrolet Camaro, Pontiac GTO/Firebird"
+MUSCLE,Albany Hermes,"$535,000",-,No,2,7.4,7.1,2.58,7.2,7.22,5.71,5.63,6.064,Coming eventually...,"Doomsday Heist updt., air-ride suspension","Buick Super (3rd gen.), '49 - '51 Mercury Eight, Hudson Hornet, '48 ""Cadzilla"""
+MUSCLE,Declasse Yosemite,"$485,000",-,No,2,7.4,7.1,2.5,7.1,7.2,5.66,5.58,6.025,Coming eventually...,"Doomsday Heist updt., air-ride suspension",67 - '72 Chevrolet C10
+MUSCLE,Declasse Tampa,"$375,000",-,No,2,7.5,6.8,2.7,6.8,7.03,5.66,5.41,5.935,http://i.imgur.com/0mXbdNg.jpg,Festive Surprise 2015,"64 - '73 Ford Mustang, '70/'71 Dodge Dart, '68-'72 Chevrolet Nova, '68 Dodge Charger"
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+MUSCLE,Vapid Chino,"$225,000",-,No,2,7.5,7,2.7,6.8,7.11,5.67,5.49,5.999,http://i.imgur.com/G9wfKk5.jpg,,"1965 Lincoln Continental, 1965 Chrysler Imperial, 1970s Ford Thunderbird(s)"
+,,,,,,,,,,,,,,,,
+MUSCLE,Albany Virgo,"$195,000",-,No,2,7.5,7,2.7,7.8,7.42,5.98,5.81,6.234,http://i.imgur.com/9UGsY15.jpg,Ill-Gotten Gains Pt1 update,"Lincoln Continental Mk 3 - Mk 4, 70s Cadillac Eldorado"
+MUSCLE,Dundreary Virgo Classic,"$165,000",-,No,2,7.2,5.2,2.3,6.2,6.22,5.24,4.6,5.246,http://i.imgur.com/4SueInV.jpg,Lowriders: Custom Classics updt.,"Chevy Camaro, Plymouth Barracuda"
+,,,,,,,,,,,,,,,,
+MUSCLE,Vapid Blade,"$160,000",-,No,2,7.8,8.1,2.7,6.8,7.56,5.76,5.87,6.345,http://i.imgur.com/VIpyE2zs.jpg ,Hipster update,1964 Ford Falcon
+MUSCLE,Vapid Hotknife,"$90,000",-,No,2,7.5,7.5,1.4,5.6,6.87,4.83,4.83,5.5,http://i.imgur.com/7knwXl4.jpg ,,"1934 Ford 3-Window Coupe, 1956 Rolls Royce Silver Wraith"
+MUSCLE,Declasse Stallion [RP],"$71,000",-,No,2,7.7,7.3,2.3,6.8,7.27,5.6,5.47,6.025,http://i.imgur.com/OdYEkp5.jpg ,,"68 - '69 & '70 - '71 Oldsmobile Cutlass, '70 Plymouth Hemi Barracuda"
+MUSCLE,Imponte Dukes [RP],"$62,000",-,No,2,7.7,8,2.7,6.8,7.5,5.73,5.83,6.3,http://i.imgur.com/GpY5JzN.jpg ,,"68 - '70 Dodge Charger/Challenger, '68/'69 Pontiac LeMans/GTO/Firebird"
+MUSCLE,Vapid Slamvan,"$49,500",-,No,2,7.2,5.5,1.3,5,5.91,4.52,3.94,4.768,http://i.imgur.com/3P7XYa0.jpg,Festive Surprise update,"Rat Rodded 1953–1956 Ford F-Series (but pickup form), 1950s Ford F-Series"
+MUSCLE,Vapid Slamvan Custom,"$394,250",-,No,2,7.2,6.3,2,7.1,6.87,5.45,5.12,5.654,http://i.imgur.com/nnp9eaSs.jpg,Lowriders: Custom Classics updt.,"Rat Rodded 1953–1956 Ford F-Series (but pickup form), 1950s Ford F-Series"
+MUSCLE,Bravado Rat-Truck,"$37,500",-,No,2,7.2,5.5,1.3,5,5.91,4.52,3.94,4.768,http://i.imgur.com/nOIlltb.jpg,,"1920s Ford Model A pickup, 1940 International Harvester D2"
+MUSCLE,Willard Faction,"$36,000",-,No,2,7.5,7,2.7,6.8,7.11,5.67,5.49,5.999,http://i.imgur.com/IO9YZL0.jpg,Lowriders update, 1982-1987 Buick Regal; Buick Grand National/T-Type/GNX
+,,,,,,,,,,,,,,,,
+MUSCLE,Willard Faction Custom Donk ,"$695,000",-,No,2,7.5,5,2.7,7.1,6.54,5.77,4.93,5.575,http://i.imgur.com/BlX9CDus.jpg,Lowriders: Custom Classics updt., 1982-1987 Buick Regal; Buick Grand National/T-Type/GNX
+MUSCLE,Vapid Dominator,"$35,000","$3,500",Yes,2,7.8,7.3,2.7,6.8,7.29,5.76,5.6,6.145,http://i.imgur.com/veOqspC.jpg ,,Ford Mustang
+MUSCLE,Bravado Gauntlet,"$32,000","$3,200",Yes,2,7.8,7.5,3,7.6,7.63,6.13,6.03,6.47,http://i.imgur.com/ZTuagke.jpg ,,"Dodge Challenger, Chevy Camaro"
+MUSCLE,Declasse Moonbeam,"$32,500",-,No,4,6.7,5.2,1.3,6.1,6.01,4.7,4.21,4.837,http://i.imgur.com/APegW9D.jpg,Lowriders update,1985—1994 Chevrolet Astro/1985—1994 GMC Safari; KK Jeep Liberty
+,,,,,,,,,,,,,,,,
+MUSCLE,Albany Buccaneer,"$29,000","$2,900",Yes,2,7.8,7,2.7,6.5,7.12,5.67,5.39,6.004,http://i.imgur.com/5DhQZPe.jpg ,,"Ford Fairlane, Buick Riviera"
+,,,,,,,,,,,,,,,,
+MUSCLE,Declasse Vigero,"$21,000","$2,100",Yes,2,7.5,7.3,2.7,6.2,7,5.47,5.4,5.925,http://i.imgur.com/xdmKUvQ.jpg ,,"Chevy Camaro, Plymouth Barracuda"
+MUSCLE,Declasse Sabre Turbo,"$15,000","$1,500",Yes,2,7.5,7,2.7,6.8,7.1,5.67,5.5,6,http://i.imgur.com/UYOGgZ5.jpg ,,"Chevrolet Chevelle, Oldsmobile Cutlass"
+,,,,,,,,,,,,,,,,
+MUSCLE,Cheval Picador,"$9,000",$900,Yes,2,7.2,5.5,2.7,6.2,6.3,5.37,4.8,5.4,http://i.imgur.com/D7D7gNa.jpg ,,Chevy El Camino
+MUSCLE,Bravado Rat-Loader,"$6,000",$600,Yes,2,7.2,5.5,1.3,5,5.9,4.5,3.93,4.75,http://i.imgur.com/wpgtKhx.jpg ,,"Rat Rod, 1940s Ford Pickup"
+MUSCLE,Declasse Voodoo,"$5,500",$550,Yes,2,7,4.3,0.8,5.6,5.61,4.47,3.56,4.416,http://i.imgur.com/ofO1rWE.jpg ,,Chevy Impala
+,,,,,,,,,,,,,,,,
+MUSCLE,Imponte Phoenix,,"$2,000",Yes,2,7.8,7,2.7,6.5,7.09,5.66,5.4,5.995,http://i.imgur.com/mZsbj2V.jpg ,,"Chevy Camaro, Pontiac Firebird (2nd generation)"
+MUSCLE,Imponte Ruiner,,"$1,000",Yes,2,7.8,7,2.7,6.7,7.16,5.73,5.47,6.045,http://i.imgur.com/OqT2hrc.jpg ,,80s Chevy Camaro / Pontiac Firebird
+,,,,,,,,,,,,,,,,
+SEDANS,,,,,,,,,,,,,,,,"Chevy Camaro, Pontiac Firebird"
+SEDANS,Enus Cognoscenti 55 (Armored),"$558,000",-,No,4,7.8,6.5,1.8,6.7,6.98,5.42,5,5.69,http://i.imgur.com/FYhg03c.jpg,Executives update,"Bentley Continental Flying Spur, Mayback Type 57-62, Rover 75"
+SEDANS,Benefactor Schafter LWB (Armrd),"$438,000",-,No,4,7.6,4.6,2.7,7.7,6.66,6.03,5.03,5.676,http://i.imgur.com/ziJeg2G.jpg,Executives update,"Mercedes-Benz E-Class W123, W114, S-Class W109, BMW E3 3.0Si"
+SEDANS,Enus Cognoscenti (Armored),"$396,000",-,No,4,7.5,6.4,1.7,6.4,6.75,5.2,4.82,5.493,http://i.imgur.com/9S6E3fn.jpg,Executives update,"Bentley Continental Flying Spur, Mayback Type 57-62, Rover 75"
+SEDANS,Benefactor Schafter V12 (Armrd),"$325,000",-,No,4,8,7.3,3.1,7.7,7.68,6.28,6.01,6.521,http://i.imgur.com/pvMKe3U.jpg,Executives update,"Mercedes-Benz E-Class W123, W114, S-Class W109, BMW E3 3.0Si"
+SEDANS,Enus Cognoscenti 55,"$254,000",-,No,4,7.8,6.6,1.9,6.6,7,5.43,5.05,5.728,http://i.imgur.com/UIEha4B.jpg,Executives update,"Bentley Continental Flying Spur, Mayback Type 57-62, Rover 75"
+SEDANS,Enus Super Diamond,"$250,000",-,No,4,7.8,6.5,2,6.4,6.88,5.38,4.95,5.658,http://i.imgur.com/kUzbTeg.jpg ,,Rolls-Royce Phantom
+SEDANS,Benefactor Schafter LWB,"$208,000",-,No,4,7.6,5,3.8,7.7,6.78,6.39,5.52,6.044,http://i.imgur.com/x8eWZEe.jpg,Executives update,"Mercedes-Benz E-Class W123, W114, S-Class W109, BMW E3 3.0Si"
+SEDANS,Benefactor Glendale,"$200,000",-,No,4,7.9,5.9,2.2,6.2,6.65,5.42,4.75,5.53,http://i.imgur.com/oEIlnKEs.jpg ,Hipster update,"Mercedes-Benz E-Class W123, W114, S-Class W109, BMW E3 3.0Si"
+SEDANS,Enus Cognoscenti,"$154,000",-,No,4,7.5,6.5,1.8,6.4,6.79,5.23,4.9,5.55,http://i.imgur.com/lnVbU5q.jpg,Executives update,"Bentley Continental Flying Spur, Mayback Type 57-62, Rover 75"
+SEDANS,Vulcar Warrener,"$120,000",-,No,4,7.5,6.1,3.2,6.1,6.59,5.61,5.15,5.737,http://i.imgur.com/m45jlxQs.jpg ,Hipster update,"Nissan Skyline GTR KGC10, Datsun 510, Toyota Corolla KE70"
+SEDANS,Benefactor Schafter,"$65,000","$6,500",Yes,4,7.8,5,3,7.7,6.84,6.17,5.24,5.876,http://i.imgur.com/HPEkLdP.jpg ,,Mercedes-Benz CL- and E-class
+SEDANS,Obey Tailgater,"$55,000","$5,500",Yes,4,7.8,5,3,7.7,6.84,6.17,5.24,5.874,http://i.imgur.com/JvLGCM4.jpg ,Michael's car,Audi A6
+SEDANS,Cheval Surge,"$38,000","$3,800",Yes,4,7.5,2.5,2,6.5,5.51,5.34,3.67,4.632,http://i.imgur.com/UJ49Qu4.jpg ,,"Chevy Volt, VW Passat"
+SEDANS,Dundreary Stretch,"$30,000",-,No,6,7.2,4.3,2.7,5.6,5.7,5.17,4.17,4.938,http://i.imgur.com/trY20yQ.jpg ,,Stretch Lincoln Town Car
+SEDANS,Karin Asterope,"$26,000","$2,600",Yes,4,7.8,5,3,7.6,6.78,6.12,5.19,5.838,http://i.imgur.com/D3WV68a.jpg ,,Toyota Corolla
+SEDANS,Cheval Fugitive,"$24,000","$2,400",Yes,4,7.8,5,3,7.6,6.78,6.12,5.19,5.838,http://i.imgur.com/aaQGKQd.jpg ,,Chevy SS
+SEDANS,Karin Intruder,"$16,000","$1,600",Yes,4,7.8,5,3,7.1,6.63,5.97,5.04,5.725,http://i.imgur.com/Al8qwal.jpg ,,Infiniti Q45/I30
+SEDANS,Albany Washington,"$15,000","$1,500",Yes,4,7.5,5,3,7.4,6.64,5.98,5.14,5.733,http://i.imgur.com/ztq3a4N.jpg ,,Lincoln Town Car
+SEDANS,Declasse Asea,"$12,000","$1,200",Yes,4,7.8,5,1.3,6.2,6.33,5.11,4.18,5.081,http://i.imgur.com/bkSh2kN.jpg ,,Chevy Aveo
+SEDANS,Vapid Stanier,"$10,000","$1,000",Yes,4,7.5,5,3,7.4,6.65,5.98,5.14,5.734,http://i.imgur.com/YnUTHJh.jpg ,,Ford Crown Victoria
+SEDANS,Declasse Premier,"$10,000","$1,000",Yes,4,7.8,5,2,6.4,6.38,5.38,4.45,5.286,http://i.imgur.com/ZunYV9V.jpg ,,Chevy Aveo
+SEDANS,Zirconium Stratum,"$10,000","$1,000",Yes,4,7.2,5.2,2,6.7,6.39,5.3,4.64,5.29,http://i.imgur.com/tK6ODhe.jpg ,AWD,Honda Accord station wagon
+SEDANS,Vulcan Ingot,"$9,000",$900,Yes,4,7,3.5,2,5,5.17,4.67,3.5,4.375,http://i.imgur.com/6iltkJp.jpg ,,"VW Passat wagon, Nissan Stagea"
+SEDANS,Albany Primo,"$9,000",$800,Yes,4,7.5,5,3,7.1,6.54,5.88,5.04,5.658,http://i.imgur.com/gfx0vDF.jpg ,,Late 80's Pontiac Bonneville
+,,,,,,,,,,,,,,,,
+SEDANS,Dundreary Regina,"$8,000",$800,Yes,4,6.4,3.5,2,5.8,5.23,4.73,3.75,4.424,http://i.imgur.com/Mlt3J7H.jpg ,,Chevy Caprice wagon
+SEDANS,Albany Emperor,,$800,Yes,4,6.4,3.5,2,5.8,5.23,4.73,3.75,4.424,http://i.imgur.com/zwj9Etx.jpg ,,Cadillac Fleetwood
+SEDANS,Chariot Romero Hearse,,"$4,500",Yes,4,6.7,3.8,1.7,5.9,5.46,4.76,3.78,4.508,http://i.imgur.com/ljTfjrb.jpg ,,Modified Lincoln Town Car
+,,,,,,,,,,,,,, ,,
+COUPES,,,,,,,,,,,,,,,,
+COUPES,Enus Windsor Drop,"$900,000",-,No,4,8,7,2.3,6.7,7.23,5.68,5.32,6.006,http://i.imgur.com/f3wqrry.jpg,"Soft top convertible, FAFF updt.","Rolls Royce Wraith, Ghost"
+COUPES,Enus Windsor,"$845,000",-,No,2,7.8,6.5,2,6.4,6.88,5.38,4.95,5.661,http://i.imgur.com/PIgjQiy.jpg,Ill-Gotten Gains Pt1 update,Rolls Royce Wraith
+COUPES,Dewbauchee Exemplar,"$205,000",-,No,4,7.8,6.5,3,7.9,7.39,6.22,5.79,6.289,http://i.imgur.com/JwwdVbs.jpg ,,Aston Martin Rapide
+COUPES,Enus Cognoscenti Cabrio,"$185,000",-,No,2,7.8,6.5,2,7,7.08,5.58,5.16,5.812,http://i.imgur.com/Bk77Cqg.jpg ,Hard top convertible,Bentley Continental GT
+COUPES,Lampadati Felon GT,"$95,000","$9,500",Yes,2,7.8,6,3,7.6,7.12,6.12,5.52,6.088,http://i.imgur.com/P1cggGf.jpg ,Soft top convertible,"Jaguar XF, Maserati Quattroporte"
+COUPES,Ubermacht Sentinel,"$95,000","$9,500",Yes,2,7.6,5.2,3,7.4,6.76,6.01,5.22,5.823,http://i.imgur.com/lLlDY2y.jpg ,Soft top convertible,BMW M3
+COUPES,Lampadati Felon,"$90,000","$9,000",Yes,4,7.8,6,3,7.7,7.17,6.17,5.57,6.126,http://i.imgur.com/ljYPEwT.jpg ,,"Jaguar XF, Maserati Quattroporte"
+COUPES,Ubermacht Oracle XS,"$82,000","$8,200",Yes,4,8,6.5,3,6.8,7.12,5.95,5.44,6.091,http://i.imgur.com/jXYDXqi.jpg ,First Generation model,BMW 7 Series
+COUPES,Ocelot F620,"$80,000","$8,000",Yes,2,7.8,6,3,7.6,7.12,6.12,5.52,6.088,http://i.imgur.com/bYHhkYO.jpg ,,Maserati GranTurismo
+COUPES,Ubermacht Oracle II,"$80,000","$8,000",Yes,4,8,6.8,3,6.8,7.21,5.95,5.52,6.154,http://i.imgur.com/yF2ofuc.jpg,Second Generation model,"BMW 7 Series F01, BMW 6 Series Gran Coupe, BMW 5 Series GT"
+COUPES,Ubermacht Zion Cabrio,"$65,000","$6,500",Yes,2,7.8,5.5,3,7.9,7.05,6.22,5.46,6.039,http://i.imgur.com/hEOIK4p.jpg ,Soft top convertible,BMW M6
+COUPES,Ubermacht Zion,"$60,000","$6,000",Yes,2,7.8,5.5,3,7.9,7.05,6.22,5.46,6.039,http://i.imgur.com/DYQPeUC.jpg ,,BMW M6
+COUPES,Ubermacht Sentinel XS,"$60,000","$6,000",Yes,2,7.6,5.2,3,7.4,6.76,6.01,5.22,5.823,http://i.imgur.com/8lnpOhV.jpg ,Tuned version of Sentinel,BMW M3
+COUPES,Ocelot Jackal,"$60,000","$6,000",Yes,4,7.6,5.5,3,7.9,7.01,6.17,5.46,6.005,http://i.imgur.com/fFtxcIz.jpg ,,Jaguar C-XF Concept
+,,,,,,,,,,,,,, ,,
+COMPACT,,,,,,,,,,,,,,,,
+COMPACT,Grotti Brioso R/A,"$155,000",-,No,2,7.243,7.3,2,7,7.15,5.4,5.41,5.866,http://i.imgur.com/0e15r1l.jpg,Cunning Stunts update,"Fiat 500; 595 Abarth, Mini John Works Cooper WRC, Suzuki Swift, Nissan Micra"
+COMPACT,Declasse Rhapsody,"$140,000",-,No,2,7.1,5.8,2,6.2,6.36,5.11,4.65,5.273,http://i.imgur.com/SghlLTXs.jpg ,Hipster update,"AMC Gremlin, 1970s"
+COMPACT,Benefactor Panto,"$85,000",-,No,2,7.1,6.8,2,6,6.6,5.01,4.9,5.448,http://i.imgur.com/ft7RvSWs.jpg ,Hipster Update,Smart ForTwo
+COMPACT,Karin Dilettante,"$25,000","$2,500",Yes,4,7,2.5,2,5.3,4.93,4.77,3.28,4.2,http://i.imgur.com/IUsQdOK.jpg ,,Toyota Prius
+COMPACT,Weeny Issi,"$18,000","$1,800",Yes,2,7.24,5.8,2,6.2,6.4,5.15,4.65,5.3,http://i.imgur.com/v9TkyNr.jpg ,"FWD, soft top convertible","Mini Cooper, Honda Civic SI"
+COMPACT,Bollokan Prairie,,"$2,500",Yes,2,7.24,5.5,2,5.9,6.22,5.05,4.47,5.162,http://i.imgur.com/8lMvNrn.jpg ,FWD,Hyundai Tiburon
+COMPACT,Dinka Blista,,"$1,600",Yes,2,7.24,5.8,2,6.2,6.4,5.15,4.65,5.3,http://i.imgur.com/q7jcFEo.jpg ,FWD,Honda Civic SI
+,,,,,,,,,,,,,, ,,
+SUVs,,,,,,,,,,,,,,,,
+SUVs,Benefactor XLS (Armored),"$522,000",-,No,4,7.1,6.5,1.9,6.1,6.55,5.03,4.83,5.394,http://i.imgur.com/GTYAgWo.jpg,"AWD, FAFF update",Mercedes GL Class
+SUVs,Gallivanter Baller LE LWB (Armrd),"$513,000",-,No,4,7.2,6.6,1.8,6,6.61,5.01,4.82,5.413,http://i.imgur.com/UO97Buq.jpg,"AWD, Executives update",Range Rover Sport SRT
+SUVs,Gallivanter Baller LE (Armored),"$374,000",-,No,4,7.2,6.8,1.9,6.1,6.68,5.08,4.91,5.495,http://i.imgur.com/ID4MNwK.jpg,"AWD, Executives update",Range Rover Sport SRT
+SUVs,Benefactor XLS,"$253,000",-,No,4,7.1,6.6,2,6.1,6.59,5.04,4.88,5.433,http://i.imgur.com/2Q5uZdF.jpg,"AWD, FAFF update","Mercedes GL Class, BMW X5"
+SUVs,Vapid Contender,"$250,000",-,No,4,7.2,6.5,2,6.4,6.7,5.2,4.95,5.527,http://i.imgur.com/vuFbZTk.jpg,"AWD, Cunning Stunts update","Toyota Tunder Devolro Diablo, Ford Raptor, Ford F-150"
+SUVs,Gallivanter Baller LE LWB,"$247,000",-,No,4,7.2,6.8,1.9,6.1,6.68,5.07,4.9,5.488,http://i.imgur.com/hcRJk3l.jpg,"AWD, Executives update",Range Rover Sport SRT
+SUVs,Enus Huntley S,"$195,000",-,No,4,7.3,6.6,1.8,6.4,6.76,5.16,4.94,5.53,http://i.imgur.com/V2yXlcx.jpg ,"AWD, High Life update","Bentley EXP 9 F (concept), Bentayga"
+SUVs,Gallivanter Baller LE,"$149,000",-,No,4,7.2,6.9,2,6,6.7,5.08,4.96,5.528,http://i.imgur.com/t2flDE1.jpg,"AWD, Executives update",Range Rover Sport SRT
+SUVs,Gallivanter Baller II,"$90,000","$9,000",Yes,4,7.2,6.8,2,6.1,6.68,5.1,4.94,5.513,http://i.imgur.com/WTM0zTT.jpg ,AWD,Range Rover
+SUVs,Obey Rocoto,"$85,000","$8,500",Yes,4,7.46,4.8,0.8,6.4,6.19,4.88,3.98,4.851,http://i.imgur.com/fJFcOw0.jpg ,,Porsche Cayenne
+SUVs,Albany Cavalcade II,"$70,000","$7,000",Yes,4,6.8,5,2,5.8,5.86,4.86,4.25,4.893,http://i.imgur.com/3RJenEJ.jpg ,,Cadillac Escalade
+SUVs,Albany Cavalcade,"$60,000","$6,000",Yes,4,6.8,5,2,5.8,5.86,4.86,4.25,4.893,http://i.imgur.com/COq5fnW.jpg,,Cadillac Escalade
+SUVs,Dundreary Landstalker,"$58,000","$5,800",Yes,4,7.2,4.5,2.7,6.4,6.04,5.42,4.51,5.193,http://i.imgur.com/Amiak3x.jpg ,,Ford Expedition
+SUVs,Declasse Granger,"$35,000","$3,100",Yes,8,7.51,4.8,2.7,6.5,6.26,5.56,4.64,5.361,http://i.imgur.com/bPejXty.jpg ,AWD,GM SUVs
+SUVs,Vapid Radius,"$32,000","$3,200",Yes,4,7.51,5,2.7,6.8,6.44,5.67,4.83,5.499,http://i.imgur.com/xhi7fBz.jpg ,,Ford Edge
+SUVs,Canis Seminole,"$30,000","$3,000",Yes,4,7,4.5,2.7,6.2,5.9,5.28,4.46,5.088,http://i.imgur.com/TXnt8tS.jpg ,,"Jeep Cherokee, Nissan Pathfinder"
+SUVs,Bravado Gresley,"$29,000","$2,900",Yes,4,7.2,5,2,5.8,6,5,4.25,5,http://i.imgur.com/a21dw4m.jpg ,AWD,"GMC Acadia, Dodge Durango"
+SUVs,Gallivanter Baller,,"$9,000",Yes,4,7,5.2,2,5.8,5.99,4.91,4.34,4.995,http://i.imgur.com/gsr3LOC.jpg ,AWD,Range Rover
+SUVs,Benefactor Dubsta,,"$7,000",Yes,4,7.51,5,2.7,6.5,6.34,5.56,4.73,5.423,http://i.imgur.com/66NXHSN.jpg ,AWD,Mercedes G Class
+SUVs,Benefactor Serrano,,"$6,000",Yes,4,7,5,1.3,6.4,6.11,4.89,4.23,4.918,http://i.imgur.com/bUhtRXI.jpg ,,Mercedes-Benz M-Class
+SUVs,Fathom FQ 2,,"$5,000",Yes,4,7.2,4.5,0.8,6,5.91,4.69,3.78,4.644,http://i.imgur.com/3dbMzIz.jpg ,,Infinity FX
+SUVs,Mammoth Patriot,,"$5,000",Yes,4,7,5,1,5.2,5.71,4.38,3.72,4.532,http://i.imgur.com/bKWBDjm.jpg ,,Hummer H2
+SUVs,Emperor Habanero,,"$4,200",Yes,4,7.4,4.5,0.8,6.4,6.07,4.85,3.9,4.762,http://i.imgur.com/WF0k2vM.jpg ,,"Lexus RX, Toyota Venza"
+SUVs,Canis Mesa,,"$3,000",Yes,4,7,4.3,1,6,5.74,4.66,3.75,4.556,http://i.imgur.com/Zc9lpD8.jpg ,AWD,Jeep Wrangler JK Unlimited
+SUVs,Karin BeeJay XL,,"$2,700",Yes,4,7,4.8,2.7,6.2,5.98,5.28,4.54,5.151,http://i.imgur.com/mGufaHX.jpg ,AWD,Toyota FJ Crusier
+,,,,,,,,,,,,,, ,,
+OFF-ROAD,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+OFF-ROAD,Cheval Marshall [RP],"$500,000",,No,2,5.9,10,2.2,6.8,7.57,4.96,6.33,6.222,http://i.imgur.com/0XfGUKB.jpg,"AWD, 4-wheel steering",
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+OFF-ROAD,HVY Insurgent,"$1,350,000",,No,9,7,5,2,6,5.99,4.99,4.33,4.994,http://i.imgur.com/noXXcgr.jpg ,"AWD, Heists update","GURKHA, Conquest Knight XV"
+,,,,,,,,,,,,,,,,
+OFF-ROAD,HVY Nightshark,"$1,250,000",,No,4,7.5,6.8,2.5,6.4,6.87,5.46,5.2,5.781,Coming eventually...,"AWD, Gunrunning update","Dartz Kombat, T-98 Kombat"
+,,,,,,,,,,,,,,,,
+OFF-ROAD,Karin Technical,"$950,000",-,No,3,7,5,2,6.2,6.04,5.04,4.38,5.032,http://i.imgur.com/s33u66b.jpg ,Heists update,Toyota Hilux
+,,,,,,,,,,,,,,,,
+OFF-ROAD,Coil Brawler,"$715,000",-,No,2,7.2,6.3,2.1,5.6,6.37,4.97,4.64,5.29,http://i.imgur.com/Jw7bAC7.jpg,Ill-Gotten Gains Part 2 update,Local Motors Rally Fighter
+OFF-ROAD,Vapid Desert Raid,"$695,000",-,No,2,7.5,8.5,1,7.6,7.85,5.36,5.68,6.141,http://i.imgur.com/nEX40nC.jpg,Cunning Stunts update,Red Bull SMG Buggy
+OFF-ROAD,HVY Insurgent (Covered),"$675,000",-,No,6,7,5,0.8,4.5,5.51,4.12,3.46,4.338,http://i.imgur.com/2Pps2Hy.jpg ,"AWD, Heists update","Conquest Knight XV, GURKHA"
+OFF-ROAD,Vapid Trophy Truck,"$550,000",-,No,2,7.5,8.5,1,7.6,7.85,5.36,5.68,6.141,http://i.imgur.com/wKYVjpx.jpg,Cunning Stunts update,"Ford Raptor baja trophy truck, Ford F-150 baja trophy truck"
+OFF-ROAD,Vapid Riata,"$380,000",-,No,2,7.2,6.3,1,6.2,6.57,4.82,4.49,5.176,Coming eventually...,Doomsday Heist update,"Ford Bronco Concept, 2016 Nissan Titan (rear lights)"
+OFF-ROAD,Benefactor Dubsta 6x6,"$249,000",-,No,6,7.4,7,2,6,6.78,5.12,5,5.588,http://i.imgur.com/1g0SWvUs.jpg ,"2 sit in bed, Hipster update","6x6 Mercedes-Benz G63, G-Class Brabus"
+OFF-ROAD,Canis Mesa (Merryweather),"$87,000",-,Yes,4,7,4.3,1,6.1,5.76,4.68,3.77,4.571,http://i.imgur.com/ATVn8TH.jpg ,,Jeep Wrangler JK Unlimited
+OFF-ROAD,Nagasaki Street Blazer,"$81,000",-,No,1,6.7,6.3,3.3,8.2,7.05,6.07,5.92,6.118,http://i.imgur.com/EKaKhhG.jpg,Bikers update,Spy Racing Quad
+OFF-ROAD,BF Bifta,"$75,000",-,No,2,7.3,6.5,2.3,6.2,6.67,5.28,5.02,5.586,http://i.imgur.com/wJdS1IE.jpg ,Beach Bum update,"Meyers Manx, GTA 3D Universe BF Injection"
+OFF-ROAD,Nagasaki Hot Rod Blazer,"$69,000",-,No,1,6.4,5,3.3,7.9,6.44,5.88,5.4,5.662,http://i.imgur.com/IpLaltgs.jpg ,,-
+OFF-ROAD,Vapid Sandking XL,"$45,000","$4,500",Yes,4,7,5,2,6,5.99,4.99,4.33,4.994,http://i.imgur.com/PTLq0qz.jpg ,,Ford Super Duty
+OFF-ROAD,Canis Kalahari (Topless),"$40,000",-,No,2,6.4,6.5,3.3,5.4,6.11,5.05,5.08,5.416,http://i.imgur.com/QVCYloV.jpg ,Beach Bum update,1968-1987 Citroen Mehari
+OFF-ROAD,Canis Kalahari,"$40,000",-,No,2,6.4,6.5,3.3,5.4,6.11,5.05,5.08,5.416,http://i.imgur.com/QVCYloV.jpg ,Beach Bum update,1968-1987 Citroen Mehari
+OFF-ROAD,Vapid Sandking SWB,"$38,000","$3,800",Yes,2,7,5,2,6,5.99,4.99,4.33,4.994,http://i.imgur.com/5fOeUDi.jpg ,,Ford Super Duty
+OFF-ROAD,Canis Bodhi,"$25,000","$1,200",Yes,4,7.2,5.4,3.7,6.8,6.46,5.89,5.29,5.762,http://i.imgur.com/0bpDDiy.jpg ,"AWD, Trevor's truck","Land Rover Series III front, Kaiser M715"
+OFF-ROAD,Karin Rebel (clean),"$22,000","$2,200",Yes,2,7,5,2,6.2,6.06,5.06,4.4,5.047,http://i.imgur.com/af4dJCM.jpg,AWD,Toyota Hilux
+OFF-ROAD,BF Dune Buggy,"$20,000",-,No,2,7.2,6.3,2.1,6.7,6.72,5.34,5.01,5.565,http://i.imgur.com/VGZmQIJ.jpg ,,-
+OFF-ROAD,BF Injection,"$16,000","$1,600",Yes,2,7.2,5.8,2.1,5.6,6.2,4.97,4.47,5.166,http://i.imgur.com/5wKtnZg.jpg ,,"VW ""Baja Bugs"""
+OFF-ROAD,Declasse Rancher XL,"$9,000",$900,Yes,4,7,4.5,2.7,5.9,5.79,5.18,4.36,5.013,http://i.imgur.com/L5c3nB0.jpg ,,Chevy Suburban
+OFF-ROAD,Nagasaki Blazer,"$8,000",$800,Yes,1,6.4,5,3.3,7.9,6.44,5.88,5.4,5.662,http://i.imgur.com/bpVh13e.jpg ,,Yamaha YFZ450
+MOTORCYCLES,Maibatsu Sanchez (Livery),"$7,000",$700,Yes,2,6.3,7,3.7,6.5,6.62,5.5,5.73,5.878,http://i.imgur.com/F7dF4h8.jpg ,Decal's only version,"2006-2009 Yamaha YZ450F, 2007 Kawasaki KX450F, Honda CRF450X"
+MOTORCYCLES,Maibatsu Sanchez,"$7,000",$700,Yes,2,6.3,7,3.7,6.5,6.62,5.5,5.73,5.878,http://i.imgur.com/F7dF4h8.jpg ,,"2006-2009 Yamaha YZ450F, 2007 Kawasaki KX450F, Honda CRF450X"
+OFF-ROAD,Karin Rebel (rusty),"$3,000",$300,Yes,2,7,5,2,6.2,6.06,5.06,4.4,5.047,http://i.imgur.com/YExDovE.jpg ,AWD,Toyota Hilux
+OFF-ROAD,Bravado Duneloader,,"$1,500",Yes,4,6.7,4.3,2,5.2,5.37,4.62,3.8,4.527,http://i.imgur.com/u0hPGxI.jpg ,,Dodge WM300 Power Wagon
+OFF-ROAD,Nagasaki Blazer Lifeguard,,Unknown,Yes,1,5.9,3,2.7,6.1,4.99,4.88,3.91,4.407,http://i.imgur.com/nonz9zk.jpg ,,Yamaha YFZ450
+,,,,,,,,,,,,,, ,,
+MOTORCYCLES,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+MOTORCYCLES,Nagasaki Shotaro,"$2,225,000",-,No,1,8.6,10,4.7,8.2,8.91,7.13,7.62,7.851,http://i.imgur.com/wxy3hDM.jpg,Bikers update,"Lotus C-01, Light Cycle from Tron: Legacy (obviously)"
+MOTORCYCLES,LCC Sanctus,"$1,995,000",-,No,1,7.7,10,3.3,5.9,7.88,5.66,6.41,6.742,http://i.imgur.com/WpnHemu.jpg,Bikers update,Custom/Modified Avarus
+MOTORCYCLES,Shitzu Hakuchou Drag Bike,"$976,000",-,No,2,8.5,10,4.7,8.8,9.11,7.33,7.82,7.996,http://i.imgur.com/BKmo08W.jpg,Bikers update,Suzuki GSX1300R Hayabusa
+MOTORCYCLES,Principe Lectro,"$750,000",-,No,2,7.5,7,4,5.9,6.81,5.81,5.64,6.105,http://i.imgur.com/E1bnO9z.jpg ,"KERS, Heists update","Ducati Streetfighter S, MV Agusta Brutale S"
+MOTORCYCLES,Dinka Vindicator,"$630,000",-,No,2,8.2,6.6,5,6,6.93,6.39,5.88,6.445,http://i.imgur.com/IA56K4R.jpg,Ill-Gotten Gains Part 2 update,"Honda NM4 Vultus, Honda Range Adventure"
+MOTORCYCLES,Shitzu Defiler,"$412,000",-,No,1,7.9,10,4,6.5,8.15,6.15,6.84,7.114,http://i.imgur.com/hKEwrWf.jpg,Bikers update,"Akuma/Buell XB12S, but sports front fairing and circular lights"
+MOTORCYCLES,Pegassi Vortex,"$356,000",-,No,1,7.9,10,4,6.5,8.15,6.15,6.84,7.114,http://i.imgur.com/6lppuMr.jpg,Bikers update,Ducati 1199 Panigale Streetfighter
+MOTORCYCLES,Pegassi Esskey,"$264,000",-,No,2,7.8,7.4,4,6.5,7.22,6.1,5.96,6.417,http://i.imgur.com/bXhCDKd.jpg,Bikers update,Ducati Scrambler
+MOTORCYCLES,Western Cliffhanger,"$225,000",-,No,2,7.9,8,3.7,6.8,7.56,6.13,6.15,6.587,http://i.imgur.com/yHQN68u.jpg,Cunning Stunts update,Harley Davidson XR-750
+MOTORCYCLES,Nagasaki Chimera,"$210,000",-,No,1,7.2,6,3.3,6.4,6.54,5.65,5.23,5.735,http://i.imgur.com/k7cXVcA.jpg,Bikers update,Generic Custom Tricycle
+MOTORCYCLES,Principe Diabolus,"$169,000",-,No,1,7.6,7.8,4,5.9,7.12,5.85,5.9,6.339,http://i.imgur.com/LFUpfZf.jpg,Import/Export update,TBC
+,,,,,,,,,,,,,,,,
+MOTORCYCLES,Western Daemon Custom,"$145,000",-,No,2,7.2,6.5,2,5.6,6.45,4.95,4.7,5.337,http://i.imgur.com/WpnHemu.jpg,Bikers update,Harley-Davidson FX series bikes
+MOTORCYCLES,Pegassi FCR 1000,"$135,000",-,No,1,7.5,7.6,4,6.4,7.17,5.96,6,6.375,http://i.imgur.com/9vfHBPH.jpg,Bikers update,BMW R100
+,,,,,,,,,,,,,,,,
+MOTORCYCLES,Western Zombie Chopper,"$122,000",-,No,2,7.4,7.3,2.7,5.7,6.76,5.23,5.2,5.737,http://i.imgur.com/pZzFvIV.jpg,Bikers update,"Harley Davidson Fat Bob Custom, Iron 883"
+MOTORCYCLES,Western Gargoyle,"$120,000",-,No,2,7.9,7.8,3.7,6.8,7.51,6.12,6.1,6.546,http://i.imgur.com/ouWImbI.jpg,Cunning Stunts update,2015 Indian Scout
+MOTORCYCLES,LCC Avarus,"$116,000",-,No,1,7.2,6.8,3.3,5.6,6.53,5.39,5.23,5.733,http://i.imgur.com/RTBYlfl.jpg,Bikers update,Generica mostly-naked chopper
+MOTORCYCLES,Western Nightblade,"$100,000",-,No,2,7.6,7.8,4,5,6.79,5.54,5.58,6.092,http://i.imgur.com/Lhcq8ek.jpg,Bikers update,Orange County Choppers 10th Anniversary; Harley Davidson Dyna Street Bob
+MOTORCYCLES,Western Zombie Bobber,"$99,000",-,No,1,7.4,7.3,2.7,5.7,6.78,5.23,5.22,5.749,http://i.imgur.com/6mHsFPs.jpg,Bikers update,"Bobber variant of Harley Davidson Fat Bob Custom, Iron 883"
+MOTORCYCLES,Nagasaki BF400,"$95,000",-,No,2,7.8,7.3,3.7,6.5,7.18,5.99,5.81,6.303,http://i.imgur.com/a61d71p.jpg,Cunning Stunts update,Honda CB400
+MOTORCYCLES,Western Wolfsbane,"$95,000",-,No,2,7,5.4,4,5,5.78,5.33,4.79,5.338,http://i.imgur.com/hhzBP0B.jpg,Bikers update,Harley Davidson 1200
+MOTORCYCLES,LCC Innovation,"$92,500",-,No,2,7.2,8,3.3,5.8,7,5.44,5.7,6.083,http://i.imgur.com/4O1neYN.jpg ,LTS update,-
+MOTORCYCLES,Shitzu Hakuchou,"$82,000",-,No,2,8.2,7.9,4.7,7,7.67,6.6,6.5,6.916,http://i.imgur.com/xJU4CGA.jpg ,LTS update,Suzuki Hayabusa
+MOTORCYCLES,Dinka Thrust,"$75,000",-,No,2,8.2,6.6,5,6,6.93,6.39,5.88,6.445,http://i.imgur.com/8GGyX7qs.jpg ,High Life update,"Honda CTX700, CTX1300, DN-01"
+MOTORCYCLES,Maibatsu Manchez,"$67,000",-,No,2,7.8,7.4,4,6.5,7.22,6.1,5.96,6.417,http://i.imgur.com/t9mw2TU.jpg,Bikers update,500cc KTM
+MOTORCYCLES,Pegassi Faggio Mod,"$55,000",-,No,2,4.8,2.9,1.3,5.2,4.28,3.77,3.12,3.547,http://i.imgur.com/4BNK0dl.jpg,Bikers update,Classic Piaggio Vespa
+MOTORCYCLES,Western Rat Bike,"$48,000",-,No,2,7,5.4,4,5,5.78,5.33,4.79,5.338,http://i.imgur.com/dysj86v.jpg,Bikers update,Harley Davidson KKF 14
+MOTORCYCLES,Nagasaki Carbon RS,"$40,000",-,No,2,7.8,7.5,4.3,6.5,7.26,6.21,6.12,6.532,http://i.imgur.com/0zHNnGa.jpg ,,"Ducati 1199, EBR 1190RS"
+MOTORCYCLES,Dinka Enduro,"$48,000",-,No,2,6.4,7.3,3.7,6.5,6.73,5.53,5.82,5.961,http://i.imgur.com/tFqurKr.jpg ,Heists update,"Honda XL350, XR500 & CB Series"
+MOTORCYCLES,Pegassi Faggio Sport,"$47,500",-,No,2,5.1,4.9,1.3,5.2,5.06,3.86,3.81,4.13,http://i.imgur.com/rjnl8tm.jpg,Bikers update,Piaggio Zip; 2007 Peugeot V Clic; Kymco Agility 50
+MOTORCYCLES,Western Bagger,"$16,000","$1,600",Yes,2,7,5.2,4,5,5.74,5.33,4.75,5.306,http://i.imgur.com/ihThi6G.jpg,Franklin's bike,"GTA Freeway, 2013 Harley Davidson Touring Road Glide Custom"
+MOTORCYCLES,Pegassi Bati 801RR,"$15,000",-,No,2,8,7.5,4.7,7,7.53,6.58,6.4,6.811,http://i.imgur.com/dmBJ6k8.jpg ,Decal's only version,Ducati 1199
+MOTORCYCLES,Pegassi Bati 801,"$15,000",-,No,2,8,7.5,4.7,7,7.53,6.58,6.4,6.811,http://i.imgur.com/9ev2dtp.jpg ,,Ducati 848
+MOTORCYCLES,LCC Hexer,"$15,000",-,No,2,7.2,6.5,3.3,5.6,6.45,5.39,5.15,5.671,http://i.imgur.com/7E21c5L.jpg ,,West Coast Choppers bikes
+MOTORCYCLES,Dinka Double-T,"$12,000",-,No,2,7.9,7.8,4.7,6.6,7.41,6.39,6.34,6.727,http://i.imgur.com/WRSr4Dk.jpg ,,Honda CBR
+MOTORCYCLES,Principe Nemesis,"$12,000","$1,200",Yes,2,7.5,7.5,4,5.9,6.97,5.81,5.8,6.23,http://i.imgur.com/v8fmMTu.jpg ,,"Ducati Monster, Hypermotard, Kawasaki Z750, GTA Vader."
+MOTORCYCLES,Pegassi Ruffian,"$10,000","$1,000",Yes,2,7.5,8.5,3.7,5.9,7.31,5.7,6.03,6.397,http://i.imgur.com/FfV6AVu.jpg ,,Ducati Monster
+MOTORCYCLES,Shitzu Vader,"$9,000",$900,Yes,2,7.5,6.8,3.7,5.8,6.67,5.64,5.39,5.921,http://i.imgur.com/AtbyR7b.jpg ,,Kawasaki Z1000
+MOTORCYCLES,Shitzu PCJ 600,"$9,000",$900,Yes,2,7,6.5,4.3,6.2,6.56,5.84,5.68,6.005,http://i.imgur.com/xlp1sYi.jpg ,,Honda CB600F Hornet
+MOTORCYCLES,Dinka Akuma,"$9,000",-,No,2,7.8,10,4,6.5,8.1,6.1,6.84,7.074,http://i.imgur.com/KfM8kB9.jpg ,,Ducati Monster
+MOTORCYCLES,Maibatsu Sanchez (Livery),"$7,000",$700,Yes,2,6.3,7,3.7,6.5,6.62,5.5,5.73,5.878,http://i.imgur.com/F7dF4h8.jpg ,Decal's only version,"2006-2009 Yamaha YZ450F, 2007 Kawasaki KX450F, Honda CRF450X"
+MOTORCYCLES,Maibatsu Sanchez 2,"$8,000",$800,Yes,2,6.3,7,3.7,6.5,6.62,5.5,5.73,5.878,http://i.imgur.com/F7dF4h8.jpg ,,"2006-2009 Yamaha YZ450F, 2007 Kawasaki KX450F, Honda CRF450X"
+MOTORCYCLES,Pegassi Faggio,"$5,000",$500,Yes,2,4.8,2.5,1.3,4.8,4.06,3.67,2.89,3.377,http://i.imgur.com/AttRuNt.jpg ,,Piaggio Vespa
+MOTORCYCLES,Western Daemon,,"$2,000",Yes,2,7.2,6.5,2,5.6,6.45,4.95,4.7,5.337,http://i.imgur.com/R36tZxh.jpg ,,Harley-Davidson FX series bikes
+,,,,,,,,,,,,,,,,
+GANG,,,,,,,,,,,,,,,,
+GANG,Declasse Tornado Hardtop,10000,"$8,050 ?",Yes,2,7,4,0.8,5.5,5.5,4.43,3.43,4.325,http://i.imgur.com/neEeJ9s.jpg ,Styles vary w/ gang affiliation,Chevy Bel Air
+GANG,Declasse Tornado Cnvrtbl.,12575,"$12,575",Yes,2,7,4,0.8,5.5,5.5,4.43,3.43,4.325,http://i.imgur.com/ZrUPqwe.jpg ,Styles vary w/ gang affiliation,Chevy Bel Air
+GANG,Vapid Peyote,12940,"$12,940",Yes,2,7,4,0.8,5.6,5.53,4.47,3.47,4.35,http://i.imgur.com/N85dnRX.jpg ,Styles vary w/ gang affiliation,Ford Thunderbird
+GANG,Albany Buccaneer,9875,"$9,875",Yes,2,7.8,7,2.7,6.5,7.11,5.68,5.4,6.008,http://i.imgur.com/uPch7uM.jpg,Styles vary w/ gang affiliation,"Ford Fairlane, Buick Riviera"
+GANG,Albany Manana,7520,"$7,520 ?",Yes,2,7,4,0.8,5.9,5.63,4.57,3.57,4.425,http://i.imgur.com/6xmFIzj.jpg ,Styles vary w/ gang affiliation,"Buick LeSabre, Cadillac Eldorado"
+,,,,,,,,,,,,,, ,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+VANS,,,,,,,,,,,,,,,,
+VANS,Brute Armored Boxville,"$2,926,000",-,No,5,6.4,8,1.2,6.6,7.01,4.73,5.25,5.548,http://i.imgur.com/ZyYW8AY.jpg,Import/Export update,Utilimaster
+VANS,Bravado Youga Classic,"$135,000",-,No,4,6.4,3.5,1,5.5,5.13,4.3,3.32,4.098,http://i.imgur.com/K3NaiTd.jpg,Bikers update,Ford Ecoline (2nd gen)
+VANS,Bravado Rumpo Custom,"$130,000",-,No,4,7,4.5,1,6.1,5.85,4.68,3.85,4.634,http://i.imgur.com/HXGBOwP.jpg,"AWD, FAFF update",GMC Vandura
+VANS,Declasse Gang Burrito,"$65,000",-,No,4,7,4,2,5.9,5.63,4.96,3.97,4.721,http://i.imgur.com/novGJu2.jpg,"Heists update, Gang variant",GM Vans
+VANS,Boxville,"$45,000","$4,500",No,2,5.4,2.8,0.8,4.7,4.27,3.63,2.76,3.411,http://i.imgur.com/g2IogE8.jpg ,,Utilimaster
+VANS,Vapid Minivan,"$30,000","$3,000",Yes,4,6.7,3.8,1.3,5.8,5.4,4.6,3.61,4.386,http://i.imgur.com/laLqox2.jpg ,,"Ford Windstar, Dodge Caravan"
+,,,,,,,,,,,,,,,,
+VANS,Bravado Bison (not Cowboy),"$30,000","$3,000",Yes,6,7,5,2,6.2,6.06,5.06,4.4,5.047,http://i.imgur.com/418Y7Bt.jpg ,Hitch and truck bed seats,Dodge Ram Heavy Duty
+VANS,Bravado Paradise,"$25,000",-,No,4,7,4.3,1.3,5.9,5.71,4.74,3.83,4.617,http://i.imgur.com/CXEDRjQ.jpg ,Beach Bum update,GM vans
+VANS,Vapid Bobcat XL,"$23,000","$2,300",Yes,2,7,4.5,2.7,5.9,5.79,5.18,4.36,5.013,http://i.imgur.com/oBop7an.jpg ,Hitch,GM
+VANS,Bravado Youga,"$16,000","$1,600",Yes,2,6.4,3.5,1,5.5,5.13,4.3,3.32,4.098,http://i.imgur.com/mT47mvD.jpg ,,GM vans
+VANS,Zirconium Journey,"$15,000",-,No,6,5.4,3.3,0.8,4.2,4.29,3.48,2.78,3.423,http://i.imgur.com/gusU015.jpg ,,Winnebago
+VANS,Bravado Rumpo,"$13,000","$1,300",Yes,4,7,4.3,1.3,5.9,5.71,4.74,3.83,4.617,http://i.imgur.com/Qt11wim.jpg ,Weazel News van,GM vans
+VANS,BF Surfer,"$11,000",$500,Yes,4,5.4,2.5,1,4.7,4.19,3.69,2.73,3.39,http://i.imgur.com/B1qkWVw.jpg ,,Volkswagen Type 2
+VANS,Brute Pony,,Unknown,Unknown,4,7,4,2,5.9,5.63,4.96,3.97,4.721,http://i.imgur.com/PvGCXSp.jpg ,,GM vans
+VANS,Declasse Burrito,,Unknown,Yes,4,7,4,2,5.9,5.63,4.96,3.97,4.721,http://i.imgur.com/FgIbeBH.jpg ,,GM vans
+VANS,Vapid Speedo,,Unknown,Unknown,4,7,4.5,2,5.5,5.64,4.81,3.98,4.732,http://i.imgur.com/xvTp3ma.jpg ,,GM vans
+VANS,Brute Camper,,Unknown,Unknown,2,5.4,3,0.8,4.5,4.3,3.58,2.79,3.436,http://i.imgur.com/vcmUyse.jpg ,,GM
+VANS,Taco Van,,Unknown,No,2,5.4,2.8,0.8,4.7,4.27,3.63,2.76,3.411,http://i.imgur.com/6VM0D1y.jpg ,Sell tacos,Utilimaster
+VANS,BF Surfer (Rusted),,$500,Yes,2,5.4,2.5,1,4.7,4.19,3.69,2.73,3.39,http://i.imgur.com/B1qkWVw.jpg ,,Volkswagen Type 2
+,,,,,,,,,,,,,,,,
+EMERGENCY,,,,,,,,,,,,,,,,
+EMERGENCY,RCV (Riot Control Vehicle),"$3,125,500",-,No,6,,,,,0,0,0,0,Coming eventually...,Doomsday Heist update,INKAS Armored Riot Control Vehicle
+EMERGENCY,Police Prison Bus,"$550,000",-,No,11,4.8,3.5,0.8,4.1,4.14,3.25,2.81,3.313,http://i.imgur.com/7MbgDnX.jpg,Heists update,International Harvester S-Series; Chevrolet Kodiak; Blue Bird CV200
+,,,,,,,,,,,,,,,,
+SERVICE,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+SERVICE,MTL Brickade,"$1,100,000",-,No,6,5.6,5,1.3,6.1,5.56,4.34,4.13,4.507,http://i.imgur.com/Ffc8LOM.jpg,FAFF update,"MAN TGS 26.480 6x6 Expedition Truck, MIDS 8815"
+SERVICE,MTL Wastelander,"$658,350",-,No,6,6.7,8.3,2,7,7.31,5.23,5.74,5.981,http://i.imgur.com/YHz5mAu.jpg,Import/Export update,"""Mongo"" Heist Truck from Fast Five"
+SERVICE,Airport Bus,"$550,000",-,No,16,5.4,3,0.8,4.4,4.25,3.53,2.74,3.398,http://i.imgur.com/FdfBnq3.jpg ,,NABI 45C-LFW
+SERVICE,Dashound,"$525,000",-,No,10,5.4,3,0.8,4.4,4.25,3.53,2.74,3.398,http://i.imgur.com/5JaPBWS.jpg ,,-
+SERVICE,Bus,"$500,000",-,No,16,5.4,3,1.2,4.4,4.25,3.64,2.85,3.481,http://i.imgur.com/8NXZK3j.jpg ,,NABI 45C-LFW
+SERVICE,Rental Shuttle Bus,"$30,000",-,No,10,5.9,3,0.8,4.7,4.53,3.81,2.84,3.608,http://i.imgur.com/ABxQ7y3.jpg ,,GM chassis
+,,,,,,,,,,,,,, ,,
+MILITARY,,,,,,,,,,,,,,,,
+MILITARY,TM-02 Khanjali,"$3,850,350",-,No,4,3.1,2.5,0.7,7.7,4.43,3.82,3.63,3.488,Coming eventually...,Doomsday Heist update,PL-01 (concept)
+MILITARY,Mammoth Thruster,"$3,657,500",-,No,1,9.9,10,N/A,10,N/A,6.65,6.67,7.484,Coming eventually...,Doomsday Heist update,Martin Jetpack P12
+MILITARY,HVY Chernobog,"$3,311,700",-,No,2,5.1,3,0.3,6.1,4.72,3.83,3.13,3.622,Coming eventually...,Doomsday Heist update,MAZ-543M
+MILITARY,HVY APC,"$3,092,250",-,No,4,5.2,5.2,6.7,7.3,5.91,6.38,6.4,6.098,Coming eventually...,"Gunrunning Updt., Amphibious","Soviet BRDM-2, BTR-80; Cadillac Gage Commando"
+MILITARY,Bravado Half-track,"$2,254,350",-,No,3,4,3,6.7,7,4.66,5.89,5.54,5.165,Coming eventually...,Gunrunning Update,"Dunloader, M3 Half-track"
+MILITARY,Barrage,"$2,121,305",-,No,4,7.2,5.6,2.8,5.3,6.04,5.13,4.57,5.235,Coming eventually...,Doomsday Heist update,"HDT Storm SRTV/Sword ITV, V-22 Osprey"
+MILITARY,Rhino Tank,"$1,500,000",-,No,1,3,2.8,0.7,7.6,4.43,3.73,3.66,3.486,http://i.imgur.com/6fBlHCB.jpg ,Cannon,"Leopard 2A4, M1 Abrams"
+MILITARY,Barracks,"$450,000",-,No,10,5.9,2.8,1,5,4.55,3.97,2.92,3.663,http://i.imgur.com/HdcRDIz.jpg ,,Daimler military chassis
+MILITARY,Canis Crusader,"$225,000",-,No,4,7,4.5,1,5.8,5.74,4.58,3.75,4.558,http://i.imgur.com/bk9kida.jpg ,,Jeep Wrangler JK Unlimited
+MILITARY,HVY Barracks Semi,-,-,No,2,5.9,5.8,3.8,4.8,5.5,4.83,4.8,5.075,http://i.imgur.com/FZsCYQUs.jpg ,Excluded from highlighting,Daimler military chassis
+,,,,,,,,,,,,,,,,
+COMMERCIAL,,,,,,,,,,,,,,,,
+COMMERCIAL,JoBuilt Phantom Wedge,"$2,553,600",-,No,2,7,7.5,2.8,5.9,6.79,5.24,5.41,5.804,http://i.imgur.com/ZpjTZuQ.jpg,Import/Export update,"Peterbilt, Phantom, Wedge Truck from Mythbusters"
+COMMERCIAL,Maibatsu Mule (Plain),"$32,500",-,No,6,5.4,2.8,0.8,4.5,4.22,3.58,2.71,3.373,http://i.imgur.com/57Rjs4J.jpg ,,"Mitsubishi Fuso FM, Hino Ranger"
+COMMERCIAL,Maibatsu Mule (Livery),"$27,000",-,No,6,5.4,2.8,0.8,4.5,4.22,3.58,2.71,3.373,http://i.imgur.com/57Rjs4J.jpg ,,"Mitsubishi Fuso FM, Hino Ranger"
+COMMERCIAL,JoBuilt Phantom,,Unknown,Unknown,2,6.6,5.2,2.7,5,5.62,4.76,4.31,4.879,http://i.imgur.com/7QSKOzL.jpg ,,Peterbilt
+COMMERCIAL,Vapid Benson,,Unknown,Unknown,2,7,4,0.8,5.3,5.43,4.37,3.38,4.278,http://i.imgur.com/MNEQ1on.jpg ,,
+COMMERCIAL,MTL Packer,,Unknown,Unknown,2,6.4,5.2,2.7,4.7,5.46,4.6,4.2,4.762,http://i.imgur.com/4lTYkPS.jpg ,,
+COMMERCIAL,MTL Pounder,,Unknown,Unknown,2,6.4,3.5,0.8,5,4.98,4.09,3.11,3.943,http://i.imgur.com/5ot1oxx.jpg ,,
+COMMERCIAL,JoBuilt Hauler,,-,No,2,6.2,4,2.7,4.7,4.96,4.51,3.79,4.383,http://i.imgur.com/M7sVzOe.jpg ,,Freightliner and Kenworth
+COMMERCIAL,Brute Stockade,,-,No,2,6.4,3,0.8,5,4.81,4.09,2.94,3.818,http://i.imgur.com/3q9ILX4.jpg ,Armored truck,
+COMMERCIAL,HVY Biff,,Unknown,Unknown,2,5.9,3,1,5,4.63,3.97,3,3.725,http://i.imgur.com/5YLB1RF.jpg ,Dump truck,Kenworth chassis
+,,,,,,,,,,,,,,,,
+INDUSTRIAL,,,,,,,,,,,,,,,,
+INDUSTRIAL,HVY Dump,"$1,000,000",-,No,1,1.9,4,1,4.4,3.42,2.42,3.13,2.817,http://i.imgur.com/QMTFA08.jpg ,,CAT 789C
+INDUSTRIAL,Vapid Guardian,"$375,000",-,No,6,7,5.2,2,6.1,6.09,5.01,4.44,5.071,http://i.imgur.com/RSVjeqO.jpg ,Heists update,"Ford F-650, GMC Kodiak"
+INDUSTRIAL,HVY Dozer,,-,No,1,0.8,3.5,0.7,3.3,2.55,1.6,2.5,2.076,http://i.imgur.com/ITtx9oc.jpg ,Bulldozer,
+,,,,,,,,,,,,,, ,,
+HELICOPTERS,,,,,,,,,,,,,,,,
+HELICOPTERS,Buckingham Akula,"$3,704,050",-,-,4,10,10,10,10,10,10,10,10,Coming eventually...,Doomsday Heist update,"Boeing-Sikorsky RAH-66 Comanche, Kamov Ka-52 ""Alligator""/Ka-50 ""Black Shark"", FH-1 Hunter, Airbus Helicopters H145M, Kawasaki OH-1"
+HELICOPTERS,FH-1 Hunter,"$3,100,000",-,-,2,7.7,10,10,9.7,9.13,9.13,9.91,9.349,Coming eventually...,Smuggler's Run update,"Boeing-Sikorsky RAH-66 Comanche, AH-64"
+HELICOPTERS,Nagasaki Havok,"$2,300,900",-,-,2,7.7,10,10,10,9.22,9.22,10,9.418,Coming eventually...,Smuggler's Run update,Heli-Sport CH-7
+HELICOPTERS,Buckingham Volatus,"$2,295,000",-,-,4,7.7,9.8,10,9.8,9.09,9.15,9.87,9.317,http://i.imgur.com/srrufQN.jpg,FAFF update,Airbus Helicopters H160
+HELICOPTERS,Buckingham Swift Deluxe,"$5,150,000",-,-,4,7.7,9.97,10,9.5,9.06,9.07,9.83,9.295,http://i.imgur.com/icN4nSM.jpg,Ill-Gotten Gains pt 1 update,"AgustaWestland AW109, Bell 222"
+HELICOPTERS,Buckingham Valkyrie,"$2,850,000",-,-,4,7.9,9.5,10,8.5,8.61,8.79,9.31,8.957,http://i.imgur.com/amdcdVQ.jpg ,Heists update,"Bell UH-1Y Venom/UH-1 Iroquois Huey/212/412, Fenestron"
+HELICOPTERS,Buckingham SuperVolito,"$2,113,000",-,-,4,7.7,10,10,10,9.22,9.22,10,9.418,http://i.imgur.com/ICfMv57.jpg,Executives update,TBC
+HELICOPTERS,Buckingham SuperVolito Carbon,"$3,330,000",-,-,4,7.7,10,10,10,9.22,9.22,10,9.418,http://i.imgur.com/taTkUBG.jpg,Executives update,TBC
+HELICOPTERS,Savage,"$1,950,000",-,-,4,7.7,8.7,10,8.1,8.13,8.58,8.9,8.597,http://i.imgur.com/C5ePDTm.jpg ,Heists update,"Mil Mi-24 Hind, Model D"
+HELICOPTERS,Western Annihilator,"$1,825,000",-,-,6,7.7,8.4,10,7.5,7.86,8.39,8.63,8.392,http://i.imgur.com/FdH1GCX.jpg ,Guns,Sikorsky UH-60
+HELICOPTERS,Western Cargobob,"$1,790,000",-,-,10,7.7,9.1,10,7.4,8.06,8.36,8.84,8.546,http://i.imgur.com/2gPzvtu.jpg ,Cargo hoist,Boeing CH-46 Sea Knight
+HELICOPTERS,Western Cargobob Jetsam,"$1,995,000",-,-,10,7.7,9.1,10,7.4,8.06,8.36,8.84,8.546,http://i.imgur.com/YoRmjx1.jpg,"FAFF update, cargo hoist",Boeing CH-46 Sea Knight
+HELICOPTERS,Nagasaki Buzzard Attack Chppr.,"$1,750,000",-,-,4,7.7,9.8,10,10,9.17,9.23,9.94,9.374,http://i.imgur.com/wlhSDrp.jpg ,Guns and missiles,"Boeing MH-6/AH-6 ""Littlebird"""
+HELICOPTERS,Buckingham Swift,"$1,500,000",-,-,4,7.7,9.9,10,9.5,9.04,9.07,9.81,9.28,http://i.imgur.com/WQ6a6y1s.jpg ,Flight School update,"AgustaWestland AW109, Bell 222"
+HELICOPTERS,Maibatsu Frogger,"$1,300,000",-,-,4,7.7,10,10,8.8,8.81,8.81,9.59,9.111,http://i.imgur.com/rQPjesN.jpg ,,Eurocopter EC135/145
+HELICOPTERS,Buckingham Maverick,"$780,000",-,-,4,7.7,9.3,10,9,8.67,8.9,9.44,9,http://i.imgur.com/CXuWl0D.jpg ,,Eurocopter AS350
+HELICOPTERS,Buckingham Police Maverick,-,-,-,4,7.7,9.5,10,9.6,8.9,9.08,9.67,9.174,http://i.imgur.com/VmPG3tS.jpg,,Eurocopter AS350B
+,,,,,,,,,,,,,,,,
+PLANES,,,,,,,,,,,,,,,,
+PLANES,Buckingham Luxor Deluxe,"$10,000,000",-,-,8,9.9,4.1,4,1.3,5.09,5.08,3.12,4.821,http://i.imgur.com/qLcXORb.jpg,Ill-Gotten Gains pt 1 update,Learjet 55
+PLANES,JoBuilt P-996 LAZER,"$6,500,000",-,-,1,9.998,10,2.5,10,10,7.5,7.5,8.125,http://i.imgur.com/9E9vsKp.jpg ,,F-16 Fighting Falcon
+PLANES,RM-10 Bombushka,"$4,450,000",-,-,6,8.6,1.1,2.8,0.2,3.29,3.84,1.35,3.156,Coming eventually...,Smuggler's Run update,TBC
+PLANES,Tula,"$3,890,000",-,-,5,7.6,1.9,2.5,0.2,3.23,3.44,1.53,3.051,Coming eventually...,Smuggler's Run update,TBC
+PLANES,Volatol,"$3,724,000",-,-,4,8.8,3.3,2.9,0.1,4.05,3.91,2.07,3.749,Coming eventually...,Doomsday Heist update,"Avro Vulcan, Myasishchev M-4"
+PLANES,V-65 Moltok,"$3,600,000",-,-,1,10,4.3,5,0.2,4.86,5.08,3.19,4.894,Coming eventually...,Smuggler's Run update,TBC
+PLANES,Buckingham Pyro,"$3,350,000",-,-,2,10,6.3,5.8,0.6,5.62,5.43,4.2,5.649,Coming eventually...,Smuggler's Run update,TBC
+PLANES,Mammoth Hydra,"$3,000,000",-,-,1,9.95,4.5,5.1,4.5,6.32,6.53,4.71,6.019,http://i.imgur.com/qhJ4TUP.jpg ,Heists update,"British Aerospace Harrier II, F-35 Lightning II, McDonnell Douglas AV-8B Harrier II"
+PLANES,(LF-22) Starling,"$2,750,000",-,-,1,8.7,5.8,6.3,0.3,4.91,5.06,4.11,5.248,Coming eventually...,Smuggler's Run update,TBC
+PLANES,Mammoth Mogul,"$2,350,000",-,-,3,8.4,2.5,3,0.2,3.69,3.85,1.89,3.52,Coming eventually...,Smuggler's Run update,TBC
+PLANES,Titan,"$2,000,000",-,-,10,8.6,5.7,2.5,3,5.76,4.69,3.73,4.941,http://i.imgur.com/YctA8Iy.jpg ,Rear cargo space,C-130/H
+PLANES,P-45 Nokota,"$1,995,000",-,-,1,10,4.3,5,0.2,4.86,5.08,3.19,4.894,Coming eventually...,Smuggler's Run update,"North American P-51 Mustang, Messerschmitt Bf 109, Focke-Wulf Fw 190"
+PLANES,Buckingham Nimbus,"$1,900,000",-,-,8,9.99,4.2,4.3,1.3,5.16,5.21,3.26,4.944,http://i.imgur.com/qdh4vD3.jpg,FAFF update,Cessna Citation X
+PLANES,Buckingham MilJet,"$1,700,000",-,-,16,4.3,4.2,4.2,1.3,3.24,3.25,3.21,3.472,http://i.imgur.com/RVPdAAIs.jpg ,Flight School update,"Bombardier CRJ200, Dassault Falcon 7X"
+PLANES,Buckingham Luxor,"$1,625,000",-,-,10,9.9,8.1,2.5,3.5,7.18,5.31,4.7,6.006,http://i.imgur.com/2j7vrDq.jpg ,,Learjet 55
+PLANES,Alpha-Z1,"$1,595,000",-,-,1,5.6,5.8,7.5,0.5,3.99,4.55,4.62,4.866,Coming eventually...,Smuggler's Run update,TBC
+PLANES,Rogue,"$1,200,000",-,-,2,10,5.5,5,0.6,5.34,5.18,3.68,5.258,Coming eventually...,Smuggler's Run update,TBC
+PLANES,Buckingham Shamal,"$1,150,000",-,-,10,9.9,8.1,2.5,3.5,7.18,5.31,4.7,6.006,http://i.imgur.com/5DJgZok.jpg ,,Learjet 55
+PLANES,Western Besra,"$1,150,000",-,-,1,10,10,10,3.9,7.97,7.97,7.97,8.48,http://i.imgur.com/gCLeXmRs.jpg ,Flight School update,"Northrop F-5 Freedom Fighter, Casa C-101, Aero L-39, Hongdu JL-8"
+PLANES,JoBuilt Velum 5-Seater,"$995,000",-,-,5,8.2,2.9,2.3,2.1,4.37,4.2,2.42,3.862,http://i.imgur.com/E7HEv1I.jpg ,Heists update,"TBM 850, Piper PA-46 Malibu Meridian/PA-31 Navajo"
+PLANES,Buckingham Howard NX-25,"$975,000",-,-,1,5.6,5.8,7.5,0.5,3.99,4.55,4.62,4.865,Coming eventually...,Smuggler's Run update,Hughes H-1 Racer
+PLANES,Buckingham Vestra,"$950,000",-,-,2,4.3,4.6,4.9,3,3.96,4.06,4.16,4.196,http://i.imgur.com/JvTPW6e.jpg,Business update,"Cirrus Vision SF50, Eclipse 500"
+PLANES,Western Seabreeze,"$850,000",-,-,2,10,10,10,0.3,6.77,6.77,6.77,7.574,Coming eventually...,"Smuggler's Run update, seaplane",Seawind 300c
+PLANES,Nagasaki Ultralight,"$500,000",-,-,1,2.39,1.9,5.5,0.1,1.45,2.65,2.48,2.461,Coming eventually...,Smuggler's Run update,Generic ultralight aircraft
+PLANES,JoBuilt Velum,"$450,000",-,-,4,8.2,5.8,2.5,6.8,6.93,5.83,5.03,5.819,http://i.imgur.com/gBne7Ew.jpg ,,"Piper PA-46, SOCATA TBM"
+PLANES,JoBuilt Mammatus,"$300,000",-,-,4,7.6,5,2.5,9,7.2,6.37,5.5,6.027,http://i.imgur.com/fuiEkGH.jpg ,,Cessna 172 Skyhawk
+PLANES,Western Duster,"$275,000",-,-,2,7.6,5,5,8.2,6.93,6.93,6.07,6.45,http://i.imgur.com/pDZeCr0.jpg ,,Stearman Model 75
+PLANES,Western Mallard,"$250,000",-,-,1,8.7,10,2.5,10,9.55,7.05,7.5,7.789,http://i.imgur.com/gRNPaqa.jpg ,,Extra EA-300
+PLANES,Western Cuban 800,"$240,000",-,-,2,8.5,6,2.5,6.3,6.92,5.75,4.92,5.812,http://i.imgur.com/7ktjvum.jpg ,,Cessna 310
+PLANES,Dodo,"$500,000",-,-,4,7.6,2.5,1.9,2.6,4.23,4.03,2.33,3.65,http://i.imgur.com/mO9btMP.jpg ,Seaplane,de Havilland Canada DHC-2 Beaver
+,,,,,,,,,,,,,, ,,
+BOATS,,,,,,,,,,,,,,,,
+BOATS,Lampadati Toro,"$1,750,000",-,-,4,9.2,10,10,3.7,7.63,7.63,7.89,8.222,http://i.imgur.com/hxEzNJA.jpg,Ill-Gotten Gains Part 2 update,
+BOATS,Kraken [RP],"$1,325,000",-,-,1,4.6,5.9,10,0,3.5,4.88,5.29,5.128,http://i.imgur.com/yqJMFCj.jpg,Exclusive Content,
+BOATS,Buckingham Tug,"$1,250,000",-,-,1,1.1,1.3,10,10,4.14,7.04,7.1,5.601,http://i.imgur.com/yT7nUfw.jpg,FAFF update,
+BOATS,Pegassi Speeder,"$325,000",-,-,4,8.2,9.4,10,3.7,7.1,7.3,7.7,7.825,http://i.imgur.com/YToxkKL.jpg ,Beach Bum update,
+BOATS,Dinka Marquis,"$413,990",-,-,4,1.9,1.5,10,10,4.44,7.28,7.16,5.83,http://i.imgur.com/bSfHUus.jpg ,,
+BOATS,Shitzu Jetmax,"$299,000",-,-,2,8.3,10,10,2.6,6.98,6.98,7.53,7.733,http://i.imgur.com/MBMBatA.jpg ,,
+BOATS,Shitzu Squalo,"$196,621",-,-,2,6.8,6.8,10,4,5.85,6.93,6.92,6.889,http://i.imgur.com/6tH1wlD.jpg ,,
+BOATS,Nagasaki Dinghy,"$175,000",-,-,4,7.7,9.4,10,3.4,6.84,7.04,7.6,7.632,http://i.imgur.com/qDMqVeu.jpg ,Heists update,
+BOATS,Shitzu Suntrap,"$25,160",-,-,4,6.8,6.8,10,5.2,6.25,7.33,7.32,7.189,http://i.imgur.com/KD1L450.jpg ,,
+BOATS,Shitzu Tropic,"$22,000",-,-,4,7.1,7.6,10,3.2,5.98,6.77,6.95,6.986,http://i.imgur.com/SFXznFi.jpg ,,
+BOATS,Speedophile Seashark,"$16,899",-,-,2,8,7.4,10,0.4,5.26,6.14,5.92,6.444,http://i.imgur.com/Zmbc9f5.jpg ,,
+,,,,,,,,,,,,,,,,
+CYCLES,,,,,,,,,,,,,,,,
+CYCLES,Whippet Race Bike,"$10,000",-,Yes,1,3.4,1.7,4.2,2.8,2.62,3.45,2.88,3.005,http://i.imgur.com/nckH9PY.jpg ,,Pinarello Dogma
+CYCLES,Tri-Cycles Race Bike,"$10,000",-,Yes,1,3.4,1.7,4.2,2.8,2.62,3.45,2.88,3.005,http://i.imgur.com/sgYinR2.jpg ,,Pinarello Dogma
+CYCLES,Endurex Race Bike,"$10,000",-,Yes,1,3.4,1.7,4.2,2.8,2.62,3.45,2.88,3.005,http://i.imgur.com/rHSdNZG.jpg ,,Pinarello Dogma
+CYCLES,Scorcher,"$2,000",-,Yes,1,3,2.1,4.7,3.1,2.72,3.57,3.29,3.208,http://i.imgur.com/aSeq31Y.jpg ,,
+CYCLES,Cruiser,$800,-,Yes,1,2.4,1,4.7,2.7,2.04,3.26,2.79,2.697,http://i.imgur.com/H6RSeAE.jpg ,,
+CYCLES,BMX,$800,-,Yes,1,2.7,2,5,2.8,2.49,3.49,3.26,3.118,http://i.imgur.com/fjz7CqI.jpg ,,
+,,,,,,,,,,,,,, ,,
+LAST UPDATED:,Missing vehicles added. See log.,26/03/2018,[[ DD/MM/YYYY ]],,,,,,,,,,,,,
+Planned:,Image additions,,,*These stats are now collected via the in-game stat readouts (by eye) and could therefore be a little inaccurate.,,,,,,,,,,,,
