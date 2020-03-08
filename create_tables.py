@@ -3,7 +3,6 @@ from sqlite3 import Error
 from queries import create_table_queries, drop_table_queries
 
 def create_database(db_file):
-
     conn = None
     try:
         conn = sqlite3.connect(db_file)
@@ -33,7 +32,6 @@ def main():
     """
     cur, conn = create_database('GTA_Vehicles.db')
     
-    
     drop_tables(cur, conn)
     print("Table drop success")
 
@@ -42,7 +40,7 @@ def main():
 
     conn.close()
 
-
+    
 if __name__ == "__main__":
     main()
       
