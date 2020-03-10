@@ -1,7 +1,7 @@
 # Data-modelling-with-python-sqlite3-
 
 ## **Overview**
-In this project, I apply Data Modeling with Sqlite3 and build an ETL pipeline using Python. This project provides another project with some initial data. 
+In this project, I apply Data Modeling with Sqlite3 and build an ETL pipeline using Python. This project provides another project with some initial data. A detailed walkthrough of the data cleaning process is available in this [juypter notebook.](/ETL.ipynb)
 
 
 ## **Vehicles Dataset**
