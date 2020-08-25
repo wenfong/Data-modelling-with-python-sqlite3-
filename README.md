@@ -5,7 +5,7 @@ In this project, I apply Data Modeling with Sqlite3 and build an ETL pipeline us
 
 
 ## **Vehicles Dataset**
-The dataset is a csv file with most of the vehicles players can buy in the game Grand Theft Auto V. This file was created by an online community so the data is somewhat unstructured and formatting in the columns are inconsistent. Lots of data cleaning/processing is required.
+The dataset is a csv file with most of the vehicles players can buy in the game Grand Theft Auto V. This file was created by an online community so the data is somewhat unstructured and formatting in the columns are inconsistent. Data cleaning/processing is required.
 
 Sample Record :
 ```
